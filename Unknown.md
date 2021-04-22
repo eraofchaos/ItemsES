@@ -12,6 +12,6 @@ classes: wide
 
   | Nr |         Nombre        |   Descripción     |
   |:---|:--------------------|:------------------|
-  | 1 | [Aparición · Gracia (14 Días)](/es/Items/unk_2117/){: .btn .btn--era5} | Haz gala de la Gracia de los Dioses los próximos 14 días. El campeón del Choque de Dioses global recibirá: |
-  | 2 | [Manual de Tácticas](/es/Items/unk_2115/){: .btn .btn--era5} | El Manual de Tácticas contiene información avanzada para ayudar a los héroes en combate. Se usa para aumentar el nivel de Ayudante de un héroe. |
-  | 3 | [Medalla de apoyo](/es/Items/unk_2116/){: .btn .btn--era4} | Las medallas de apoyo se pueden usar para transferir energía de una unidad de apoyo a una de combate. Esto es material de entrenamiento de apoyo básico. |
+  | 1 | [Aparición · Gracia (14 Días)](/ItemsES/unk_2117/){: .btn .btn--era5} | Haz gala de la Gracia de los Dioses los próximos 14 días. El campeón del Choque de Dioses global recibirá: |
+  | 2 | [Manual de Tácticas](/ItemsES/unk_2115/){: .btn .btn--era5} | El Manual de Tácticas contiene información avanzada para ayudar a los héroes en combate. Se usa para aumentar el nivel de Ayudante de un héroe. |
+  | 3 | [Medalla de apoyo](/ItemsES/unk_2116/){: .btn .btn--era4} | Las medallas de apoyo se pueden usar para transferir energía de una unidad de apoyo a una de combate. Esto es material de entrenamiento de apoyo básico. |
