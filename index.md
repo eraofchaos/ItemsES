@@ -2,16 +2,16 @@
 title: "Item - Materials"
 permalink: /
 excerpt: "Materials in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Materials.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nombre        |   Descripción     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Nombre        |   Descripción     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Azufre bueno](/images/t/i_cailiao_liuhuang1.png) | [Azufre bueno](/ItemsES/mat_15/){: .btn .btn--era3} | Materiales normales para mejorar el equipo de azul a azul +1. |
   | 2 | ![Azufre común](/images/t/i_cailiao_liuhuang1.png) | [Azufre común](/ItemsES/mat_9/){: .btn .btn--era2} | Materiales normales para mejorar el equipo de verde a azul. |
   | 3 | ![Azufre de Alma +3](/images/t/i_cailiao_liuhuang3.png) | [Azufre de Alma +3](/ItemsES/mat_85/){: .btn .btn--era5} | Materiales normales para mejorar el equipo de naranja +3 a naranja +4. |

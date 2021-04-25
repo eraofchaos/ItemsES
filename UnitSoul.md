@@ -2,16 +2,16 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Unit Soul.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nombre        |   Type  |   Descripción     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nombre        |   Type  |   Descripción     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Adjudicadora](/images/u/ti_shenpanguan.jpg) | [Adjudicadora](/ItemsES/unt_198/){: .btn .btn--era6} | Unit Soul | Cuando hayas reunido 80 fichas de alma, podrás invocar una Adjudicadora, una unidad de Comandante. |
   | 2 | ![Aeronave Mágica](/images/u/ti_reqiqiu.jpg) | [Aeronave Mágica](/ItemsES/unt_242/){: .btn .btn--era4} | Unit Soul | Cuando hayas reunido 80 fichas de alma, podrás invocar a una Aeronave Mágica. Las fichas también se pueden usar para mejorar o aumentar el rango de las Aeronaves Mágicas. |
   | 3 | ![Aparición](/images/u/ti_youling.jpg) | [Aparición](/ItemsES/unt_210/){: .btn .btn--era4} | Unit Soul | Cuando hayas reunido 30 fichas de alma, podrás invocar a una Aparición, una unidad de aptitud SR. |

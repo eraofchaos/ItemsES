@@ -2,16 +2,16 @@
 title: "Item - Artifacts"
 permalink: /Artifacts/
 excerpt: "Artifacts in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Artifacts.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nombre        |   Descripción     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Nombre        |   Descripción     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Amuleto Mágico](/images/t/artifact_40212.png) | [Amuleto Mágico](/ItemsES/art_113/){: .btn .btn--era3} | Un amuleto con poder mágico. Uno de los componentes del Pozo del Hechicero. |
   | 2 | ![Amuleto de Maná](/images/t/artifact_40211.png) | [Amuleto de Maná](/ItemsES/art_112/){: .btn .btn--era3} | Un amuleto que mejora la magia. Uno de los componentes del Pozo del Hechicero. |
   | 3 | ![Amuleto del Enterrador](/images/t/artifact_40321.png) | [Amuleto del Enterrador](/ItemsES/art_129/){: .btn .btn--era4} | Un amuleto utilizado por un Liche para protegerse. Uno de los componentes de la Capa del Rey No Muerto. |

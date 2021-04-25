@@ -1,17 +1,17 @@
 ---
-title: "Item - Hero SKill"
+title: "Item - Hero Skill"
 permalink: /HeroSkill/
-excerpt: "Hero SKill in Era of Chaos"
-last_modified_at: 2021-04-23
+excerpt: "Hero Skill in Era of Chaos"
+last_modified_at: 2021-04-25
 locale: es
-ref: "Hero SKill.md"
+ref: "Hero Skill.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nombre        |   Type  |   Descripción     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nombre        |   Type  |   Descripción     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 |  | [Abismo de llamas](/ItemsES/her_478/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Abismo de llamas |
   | 2 | ![Alborozo](/images/t/ps_huanxinguwu.png) | [Alborozo](/ItemsES/her_424/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Alborozo |
   | 3 | ![Aliento de dragón](/images/t/ps_longxishu.png) | [Aliento de dragón](/ItemsES/her_405/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Aliento de dragón |

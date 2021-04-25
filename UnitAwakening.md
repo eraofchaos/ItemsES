@@ -2,16 +2,16 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Unit Awakening.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nombre        |   Type  |   Descripción     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nombre        |   Type  |   Descripción     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Piedra de Alma de Alabardero](/images/u/tia_jibing.jpg) | [Piedra de Alma de Alabardero](/ItemsES/unt_282/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Alabardero |
   | 2 | ![Piedra de Alma de Archidiablo](/images/u/tia_daemo.jpg) | [Piedra de Alma de Archidiablo](/ItemsES/unt_318/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Archidiablo |
   | 3 | ![Piedra de Alma de Archidruida](/images/u/tia_deluyi.jpg) | [Piedra de Alma de Archidruida](/ItemsES/unt_296/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Archidruida. |

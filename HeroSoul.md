@@ -2,16 +2,16 @@
 title: "Item - Hero Soul"
 permalink: /HeroSoul/
 excerpt: "Hero Soul in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Hero Soul.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nombre        |   Type  |   Descripción     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nombre        |   Type  |   Descripción     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Adelaide](/images/h/h_Adelaide.jpg) | [Adelaide](/ItemsES/her_359/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Adelaide y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
   | 2 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/ItemsES/her_388/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Astral y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
   | 3 | ![Cassanbel](/images/h/h_Cassanbel.jpg) | [Cassanbel](/ItemsES/her_396/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Cassanbel y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |

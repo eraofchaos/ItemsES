@@ -2,16 +2,16 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Avatars.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsES/){: .btn .btn--primary}[Artifacts](/ItemsES/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsES/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsES/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsES/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsES/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsES/Gift/){: .btn .btn--success}[Event related](/ItemsES/Events/){: .btn .btn--warning}[Avatars](/ItemsES/Avatars/){: .btn .btn--danger}[Consumables](/ItemsES/Consumables/){: .btn .btn--info}[Unknown](/ItemsES/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nombre        |   Type  |   Descripción     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nombre        |   Type  |   Descripción     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Alas de triunfo: Gelu](/images/h/h_Gelu8.jpg) | [Alas de triunfo: Gelu](/ItemsES/con_872/){: .btn .btn--era5} | Hero Avatar |  |
   | 2 | ![Aspecto Armadura Dorada: PhuThieu](/images/u/ti_datianshidiancangkapifu2.jpg) | [Aspecto Armadura Dorada: PhuThieu](/ItemsES/con_972/){: .btn .btn--era5} | Hero Avatar |  |
   | 3 | ![Avatar de Adelaide](/images/h/h_Adelaide1.jpg) | [Avatar de Adelaide](/ItemsES/con_581/){: .btn .btn--era5} | Hero Avatar | Usar para recibir el avatar de Adelaide |
