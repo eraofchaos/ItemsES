@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera épica +2"
 permalink: /mat_48/
 excerpt: "Era of Chaos  Madera épica +2"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "mat_48.md"
 toc: false

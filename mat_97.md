@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera radiante +5"
 permalink: /mat_97/
 excerpt: "Era of Chaos  Madera radiante +5"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "mat_97.md"
 toc: false

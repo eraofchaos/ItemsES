@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas inferiores"
 permalink: /mat_4/
 excerpt: "Era of Chaos  Gemas inferiores"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "mat_4.md"
 toc: false

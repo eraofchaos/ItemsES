@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio bueno"
 permalink: /mat_14/
 excerpt: "Era of Chaos  Mercurio bueno"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "mat_14.md"
 toc: false

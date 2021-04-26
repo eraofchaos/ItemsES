@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Consumables.md"
 toc: false
@@ -73,7 +73,7 @@ classes: wide
   | 59 | ![Capitana: Catherine](/images/h/h_Catherine6.jpg) | [Capitana: Catherine](/ItemsES/con_1029/){: .btn .btn--era5} | Special Skin | Se usa para obtener el aspecto de Capitana de Catherine |
   | 60 | ![Celebraciones del Festival de Primavera de Gelu](/images/h/h_Gelu7.jpg) | [Celebraciones del Festival de Primavera de Gelu](/ItemsES/con_1039/){: .btn .btn--era5} | Special Skin | Úsalo para obtener un aspecto: Gelu Celebraciones del Festival de Primavera |
   | 61 | ![Celebraciones del Festival de Primavera de Xeron](/images/h/h_Xeron3.jpg) | [Celebraciones del Festival de Primavera de Xeron](/ItemsES/con_1063/){: .btn .btn--era5} | Special Skin | Úsalo para obtener un aspecto: Xeron Celebraciones del Festival de Primavera |
-  | 62 |  | [Certificado de Gloria](/ItemsES/con_933/){: .btn .btn--era5} | Other | Certificado de Gloria, obtenido de las recompensas de actividad en la Arena Gloriosa y resultados diarios |
+  | 62 | ![Certificado de Gloria](/images/t/i_40021.png) | [Certificado de Gloria](/ItemsES/con_933/){: .btn .btn--era5} | Other | Certificado de Gloria, obtenido de las recompensas de actividad en la Arena Gloriosa y resultados diarios |
   | 63 | ![Certificado divino](/images/t/i_40053.png) | [Certificado divino](/ItemsES/con_958/){: .btn .btn--era5} | Other | Un Certificado divino, la recompensa de rango de la temporada de la Arena Gloriosa. |
   | 64 | ![Ciele Vega](/images/h/h_Ciele3.jpg) | [Ciele Vega](/ItemsES/con_1061/){: .btn .btn--era5} | Special Skin | Úsalo para obtener un aspecto: Ciele Vega |
   | 65 | ![Cofre de esencia de Esqueletos](/images/t/i_906004.png) | [Cofre de esencia de Esqueletos](/ItemsES/con_1327/){: .btn .btn--era4} | Unit Essence | ¡Tiene un 50% de probabilidades de otorgar una ficha de Vidomina! |
@@ -82,7 +82,7 @@ classes: wide
   | 68 | ![Comandante de batalla: Mephala](/images/h/h_Mephala3.jpg) | [Comandante de batalla: Mephala](/ItemsES/con_1041/){: .btn .btn--era5} | Special Skin | Se usa para obtener el aspecto de Comandante de batalla de Mephala |
   | 69 | ![Complot letal: Lord Haart](/images/h/h_LordHaart3.jpg) | [Complot letal: Lord Haart](/ItemsES/con_1049/){: .btn .btn--era5} | Special Skin | Se usa para obtener el aspecto de Complot letal de Lord Haart |
   | 70 | ![Complot letal: Sandro](/images/h/h_Sandro4.jpg) | [Complot letal: Sandro](/ItemsES/con_1051/){: .btn .btn--era5} | Special Skin | Se usa para obtener el aspecto de Complot letal de Sandro |
-  | 71 |  | [Cristal Sagrado](/ItemsES/con_927/){: .btn .btn--era5} | Other | Un cristal sobrenatural concentrado que se puede usar para intercambiarlo por suministros poco comunes en la Tienda Global. Se obtiene en Choque de Dioses global. |
+  | 71 | ![Cristal Sagrado](/images/t/i_godStone.png) | [Cristal Sagrado](/ItemsES/con_927/){: .btn .btn--era5} | Other | Un cristal sobrenatural concentrado que se puede usar para intercambiarlo por suministros poco comunes en la Tienda Global. Se obtiene en Choque de Dioses global. |
   | 72 |  | [Cristal azul](/ItemsES/con_716/){: .btn .btn--era3} | Material | Una piedra rúnica misteriosa. Puede mejorar la percepción de habilidad de tus unidades, y otorga 150 de EXP de habilidad al usarlo. |
   | 73 |  | [Cristal blanco](/ItemsES/con_707/){: .btn .btn--era1} | Material | Una piedra rúnica misteriosa. Puede mejorar ligeramente la percepción de habilidad de tus unidades, y otorga 10 de EXP de habilidad al usarlo. |
   | 74 | ![Cristal de Alma](/images/t/i_40012.png) | [Cristal de Alma](/ItemsES/con_924/){: .btn .btn--era5} | Other | Cristal de Alma. Se puede intercambiar por Emblemas Sagrados en la Tienda de Intercambio de Robasuertes. Se obtiene al jugar a Robasuertes. |
@@ -172,7 +172,7 @@ classes: wide
   | 158 | ![Ficha universal](/images/t/i_907072.png) | [Ficha universal](/ItemsES/con_1458/){: .btn .btn--era4} | Unit Essence | ¡Tienes una probabilidad del 33% de obtener una ficha universal! |
   | 159 | ![Fichas de plano](/images/t/i_40003.png) | [Fichas de plano](/ItemsES/con_910/){: .btn .btn--era5} | Other | Estas fichas, forjadas por los elementales entre planos a lo largo de muchos años, son de gran valor y se pueden intercambiar por objetos. |
   | 160 | ![Flecha](/images/t/i_arrow.png) | [Flecha](/ItemsES/con_890/){: .btn .btn--era4} | VIP related | Una flecha usada normalmente por las Elfas del Bosque. |
-  | 161 |  | [Fondos de gremio](/ItemsES/con_930/){: .btn .btn--era4} | Other | Se obtiene mediante donaciones. Se puede usar para las Pujas de Ciudad en la Guerra de gremios global |
+  | 161 | ![Fondos de gremio](/images/t/i_40018.png) | [Fondos de gremio](/ItemsES/con_930/){: .btn .btn--era4} | Other | Se obtiene mediante donaciones. Se puede usar para las Pujas de Ciudad en la Guerra de gremios global |
   | 162 | ![Gem Chica futbolista](/images/h/h_Gem3.jpg) | [Gem Chica futbolista](/ItemsES/con_1046/){: .btn .btn--era5} | Special Skin | Úsalo para obtener un aspecto: Gem Chica futbolista |
   | 163 | ![Gorgona del trueno: aspecto de Gorgona](/images/u/ti_manniupifu.jpg) | [Gorgona del trueno: aspecto de Gorgona](/ItemsES/con_1998/){: .btn .btn--era5} | Unit Skin | Ábrelo para obtener Gorgona del trueno: aspecto de Gorgona. |
   | 164 | ![Guarda de Luz: Aspecto de Ángel](/images/u/ti_datianshipifu2.jpg) | [Guarda de Luz: Aspecto de Ángel](/ItemsES/con_1973/){: .btn .btn--era5} | Unit Skin | Otorga el aspecto Guarda de Luz del Ángel |
@@ -207,7 +207,7 @@ classes: wide
   | 193 | ![Moneda de Auto Chess](/images/t/i_40023.png) | [Moneda de Auto Chess](/ItemsES/con_935/){: .btn .btn--era5} | Other | Las monedas de Auto Chess se pueden conseguir mediante la Campaña de Heroes Auto Chess. |
   | 194 | ![Moneda de Gloria](/images/t/i_40010.png) | [Moneda de Gloria](/ItemsES/con_922/){: .btn .btn--era4} | Other | Forjado por la gloriosa luz del reino. Solo se puede obtener luchando en batallas de Disputa de Reino |
   | 195 | ![Moneda de Gremio](/images/t/i_98.png) | [Moneda de Gremio](/ItemsES/con_896/){: .btn .btn--era4} | VIP related | Se puede intercambiar por objetos en la Tienda del gremio. |
-  | 196 |  | [Moneda de Gremio global](/ItemsES/con_929/){: .btn .btn--era4} | Other | Se obtiene al enfrentarte a la Guerra de gremios global |
+  | 196 | ![Moneda de Gremio global](/images/t/i_40017.png) | [Moneda de Gremio global](/ItemsES/con_929/){: .btn .btn--era4} | Other | Se obtiene al enfrentarte a la Guerra de gremios global |
   | 197 | ![Moneda de Suministros Militares](/images/t/i_40009.png) | [Moneda de Suministros Militares](/ItemsES/con_921/){: .btn .btn--era4} | Other | Las Monedas de Suministros Militares se pueden gastar para producir componentes |
   | 198 | ![Moneda de duelo](/images/t/i_117.png) | [Moneda de duelo](/ItemsES/con_907/){: .btn .btn--era5} | VIP related | Las monedas de duelo se pueden obtener jugando al modo Duelo de Héroes. |
   | 199 | ![Moneda de la Suerte](/images/t/i_40002.png) | [Moneda de la Suerte](/ItemsES/con_909/){: .btn .btn--era5} | VIP related | Moneda conmemorativa |
@@ -219,7 +219,7 @@ classes: wide
   | 205 | ![Nacida de las cenizas](/images/a/avatarFrame_76.png) | [Nacida de las cenizas](/ItemsES/con_1022/){: .btn .btn--era5} | Experience Card | Se obtiene en la Arena Gloriosa |
   | 206 | ![Nacida de las cenizas: Luna](/images/h/h_Luna3.jpg) | [Nacida de las cenizas: Luna](/ItemsES/con_1060/){: .btn .btn--era5} | Special Skin | Se usa para obtener el aspecto de Nacida de las cenizas de Luna |
   | 207 | ![Nirvana brillante: Aspecto de Pájaro Ígneo](/images/u/ti_fenghuangpifu.jpg) | [Nirvana brillante: Aspecto de Pájaro Ígneo](/ItemsES/con_2002/){: .btn .btn--era5} | Unit Skin | Otorga el aspecto de Pájaro Ígneo: Nirvana brillante. |
-  | 208 |  | [Núcleo de Energía](/ItemsES/con_931/){: .btn .btn--era5} | Battle Formation | Se usa para activar nodos de formación |
+  | 208 | ![Núcleo de Energía](/images/t/i_40019.png) | [Núcleo de Energía](/ItemsES/con_931/){: .btn .btn--era5} | Battle Formation | Se usa para activar nodos de formación |
   | 209 | ![Oceánido: Vidente Regnan](/images/u/ti_haihoupifu2.jpg) | [Oceánido: Vidente Regnan](/ItemsES/con_2005/){: .btn .btn--era5} | Unit Skin | Otorga el aspecto Oceánido de la Vidente Regnan |
   | 210 | ![Oro](/images/t/i_103.png) | [Oro](/ItemsES/con_899/){: .btn .btn--era9} | VIP related | El oro se puede usar de varias formas. |
   | 211 | ![Paquete de 118 diamantes](/images/t/i_tool_30272.png) | [Paquete de 118 diamantes](/ItemsES/con_736/){: .btn .btn--era3} | EXP | ¡Un paquete con 118 diamantes! |
@@ -228,7 +228,7 @@ classes: wide
   | 214 | ![Paquete de 68 diamantes](/images/t/i_tool_30271.png) | [Paquete de 68 diamantes](/ItemsES/con_735/){: .btn .btn--era2} | EXP | ¡Un paquete con 68 diamantes! |
   | 215 | ![Paquete de Acero de dragón](/images/t/i_907004.png) | [Paquete de Acero de dragón](/ItemsES/con_729/){: .btn .btn--era5} | EXP | Una caja de regalo con un montón de Acero de dragón. Ábrelo y recibirás 1000 de Acero de dragón. |
   | 216 | ![Paquete de Acero sombrío](/images/t/i_30281.png) | [Paquete de Acero sombrío](/ItemsES/con_740/){: .btn .btn--era4} | EXP | Un paquete que contiene Acero de dragón. Ábrelo y recibirás 300 de Acero de dragón. |
-  | 217 |  | [Paquete de bonificación de gratitud](/ItemsES/con_2114/){: .btn .btn--era4} | Exclusive Token related | Úsalo para seleccionar 1 ficha de arma universal |
+  | 217 | ![Paquete de bonificación de gratitud](/images/t/i_906044.png) | [Paquete de bonificación de gratitud](/ItemsES/con_2114/){: .btn .btn--era4} | Exclusive Token related | Úsalo para seleccionar 1 ficha de arma universal |
   | 218 | ![Paquete de recompensa de diamantes](/images/t/i_10043_redpacket.png) | [Paquete de recompensa de diamantes](/ItemsES/con_557/){: .btn .btn--era5} | Event related | Un paquete de recompensa lleno de diamantes. ¡Ábrelo para probar suerte! (Este objeto se eliminará cuando termine el evento). |
   | 219 | ![Paquete de recompensa de monedas](/images/t/i_10042_redpacket.png) | [Paquete de recompensa de monedas](/ItemsES/con_556/){: .btn .btn--era4} | Event related | Un paquete de recompensa lleno de monedas. ¡Ábrelo para probar suerte! (Este objeto se eliminará cuando termine el evento). |
   | 220 | ![Paquete de recompensa gratis](/images/t/i_red_1.png) | [Paquete de recompensa gratis](/ItemsES/con_842/){: .btn .btn--era5} | Guild member gift | ¡Has superado el nivel 3 de Prueba de Ángeles! ¡Recibes una probabilidad gratuita de enviar un sobre rojo a tus miembros del gremio! |
@@ -245,7 +245,7 @@ classes: wide
   | 231 | ![Plata astro](/images/t/artifact_41003.png) | [Plata astro](/ItemsES/con_969/){: .btn .btn--era5} | Other | Una moneda misteriosa de origen desconocido. Se dice que otorga plata astro gratis a su usuario una vez. |
   | 232 | ![Plata celestial](/images/t/i_113.png) | [Plata celestial](/ItemsES/con_882/){: .btn .btn--era3} | Other | Un montón de Plata celestial (recurso de nivel 1), que se puede usar para mejorar los Barracones. |
   | 233 | ![Pociones de EXP de jugador](/images/t/i_501.png) | [Pociones de EXP de jugador](/ItemsES/con_676/){: .btn .btn--era2} | EXP | Para aumentar el rango de los Pájaros Ígneos, se requiere una unidad de aptitud SR. |
-  | 234 |  | [Poción de Alquimia](/ItemsES/con_932/){: .btn .btn--era5} | Other | Poción de Alquimia, obtenida al refinar materiales en el Taller alquímico |
+  | 234 | ![Poción de Alquimia](/images/t/i_40020.png) | [Poción de Alquimia](/ItemsES/con_932/){: .btn .btn--era5} | Other | Poción de Alquimia, obtenida al refinar materiales en el Taller alquímico |
   | 235 | ![Poción de EXP enorme](/images/t/i_503.png) | [Poción de EXP enorme](/ItemsES/con_703/){: .btn .btn--era4} | EXP | Una botella de poción refinada de EXP. Obtendrás 7500 EXP de unidad tras beberla. |
   | 236 | ![Poción de EXP grande](/images/t/i_502.png) | [Poción de EXP grande](/ItemsES/con_702/){: .btn .btn--era3} | EXP | Una botella de poción purificada de EXP. Obtendrás 1500 EXP de unidad tras beberla. |
   | 237 | ![Poción de EXP pequeña](/images/t/i_501.png) | [Poción de EXP pequeña](/ItemsES/con_701/){: .btn .btn--era2} | EXP | Una botella pequeña de poción turbia de EXP. Obtendrás 300 EXP de unidad tras beberla. |
@@ -305,11 +305,11 @@ classes: wide
   | 291 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/ItemsES/con_857/){: .btn .btn--era5} | Guild member gift |  |
   | 292 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/ItemsES/con_858/){: .btn .btn--era5} | Guild member gift |  |
   | 293 |  | [Tool_40013](/ItemsES/con_925/){: .btn .btn--era4} | Other |  |
-  | 294 |  | [Tool_40024](/ItemsES/con_936/){: .btn .btn--era5} | Other |  |
-  | 295 |  | [Tool_40025](/ItemsES/con_937/){: .btn .btn--era5} | Other |  |
-  | 296 |  | [Tool_40026](/ItemsES/con_938/){: .btn .btn--era5} | Other |  |
-  | 297 |  | [Tool_40027](/ItemsES/con_939/){: .btn .btn--era5} | Other |  |
-  | 298 |  | [Tool_40028](/ItemsES/con_940/){: .btn .btn--era5} | Other |  |
+  | 294 | ![Tool_40024](/images/t/i_40024.png) | [Tool_40024](/ItemsES/con_936/){: .btn .btn--era5} | Other |  |
+  | 295 | ![Tool_40025](/images/t/i_40025.png) | [Tool_40025](/ItemsES/con_937/){: .btn .btn--era5} | Other |  |
+  | 296 | ![Tool_40026](/images/t/i_40026.png) | [Tool_40026](/ItemsES/con_938/){: .btn .btn--era5} | Other |  |
+  | 297 | ![Tool_40027](/images/t/i_40027.png) | [Tool_40027](/ItemsES/con_939/){: .btn .btn--era5} | Other |  |
+  | 298 | ![Tool_40028](/images/t/i_40028.png) | [Tool_40028](/ItemsES/con_940/){: .btn .btn--era5} | Other |  |
   | 299 |  | [Tool_499035](/ItemsES/con_1002/){: .btn .btn--era4} | Exclusive piece |  |
   | 300 | ![Tool_6030403](/images/h/h_Gem5.jpg) | [Tool_6030403](/ItemsES/con_1047/){: .btn .btn--era5} | Special Skin |  |
   | 301 | ![Tool_6070503](/images/h/h_Ciele5.jpg) | [Tool_6070503](/ItemsES/con_1062/){: .btn .btn--era5} | Special Skin |  |
