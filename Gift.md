@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Gift.md"
 toc: false
@@ -600,66 +600,72 @@ classes: wide
   | 586 | ![Poción de Fervor](/images/t/i_907473.png) | [Poción de Fervor](/ItemsES/con_1850/){: .btn .btn--era4} | Gift | Objeto temporal de evento de ataque de Cala. Otorga 60 de Fervor. |
   | 587 | ![Prueba Cumbre de Tazar](/images/t/i_907347.png) | [Prueba Cumbre de Tazar](/ItemsES/con_1732/){: .btn .btn--era4} | Gift | Otorga 1980 diamantes y el aspecto Prueba Cumbre de Tazar. |
   | 588 | ![Recompensa de prerregistro](/images/t/i_907182.png) | [Recompensa de prerregistro](/ItemsES/con_1384/){: .btn .btn--era5} | Gift | Aquí tienes una recompensa por tu registro anticipado. |
-  | 589 | ![Regalo del 1 de abril](/images/t/i_907196.png) | [Regalo del 1 de abril](/ItemsES/con_2130/){: .btn .btn--era5} | Gift | Úsalo para optar a conseguir 200 diamantes. |
-  | 590 |  | [Regalo misterioso de elfo](/ItemsES/con_1403/){: .btn .btn--era4} | Gift | Un regalo misterioso procedente de un Hada. ¡Ábrelo para recibir una recompensa! |
-  | 591 | ![Revelations: Ezio](/images/t/i_907438.png) | [Revelations: Ezio](/ItemsES/con_1817/){: .btn .btn--era4} | Gift | Concede 980 diamantes y 1 aspecto Revelations: Ezio. |
-  | 592 | ![Revelations: Oferta especial de Ezio](/images/t/i_907438.png) | [Revelations: Oferta especial de Ezio](/ItemsES/con_1816/){: .btn .btn--era4} | Gift | Concede 680 diamantes, 1 aspecto Revelations: Ezio y 10 pergaminos de templo antiguo. |
-  | 593 | ![Señor de la guerra del mar](/images/a/avatarFrame_202.png) | [Señor de la guerra del mar](/ItemsES/con_1095/){: .btn .btn--era5} | Gift | Se usa para recibir el marco de avatar de Señor de la guerra del mar. |
-  | 594 | ![Suministros del ejército](/images/t/i_907132.png) | [Suministros del ejército](/ItemsES/con_1083/){: .btn .btn--era5} | Gift | Una recompensa de Xeron para el evento La captura de Roland. Puedes conseguir recursos aleatorios muy valiosos. |
-  | 595 | ![Ticket de descuento de Astrología](/images/t/i_3018.png) | [Ticket de descuento de Astrología](/ItemsES/con_700/){: .btn .btn--era5} | Gift | Un cofre de bronce con muchos tesoros. |
-  | 596 | ![Tienda del Rey](/images/t/i_907022.png) | [Tienda del Rey](/ItemsES/con_1408/){: .btn .btn--era4} | Gift | Hay una probabilidad de que obtengas un cierto número de puntos de privilegio tras su uso |
-  | 597 | ![Tool_2991](/images/t/i_907167.png) | [Tool_2991](/ItemsES/con_675/){: .btn .btn--era4} | Gift |  |
-  | 598 |  | [Tool_303001](/ItemsES/con_743/){: .btn .btn--era4} | Gift |  |
-  | 599 |  | [Tool_303002](/ItemsES/con_744/){: .btn .btn--era4} | Gift |  |
-  | 600 |  | [Tool_303003](/ItemsES/con_745/){: .btn .btn--era4} | Gift |  |
-  | 601 | ![Tool_408001](/images/t/i_907046.png) | [Tool_408001](/ItemsES/con_961/){: .btn .btn--era3} | Gift |  |
-  | 602 | ![Tool_408002](/images/t/i_907046.png) | [Tool_408002](/ItemsES/con_962/){: .btn .btn--era4} | Gift |  |
-  | 603 | ![Tool_613002](/images/t/i_907054.png) | [Tool_613002](/ItemsES/con_1070/){: .btn .btn--era5} | Gift |  |
-  | 604 | ![Tool_906041](/images/t/i_907116.png) | [Tool_906041](/ItemsES/con_1364/){: .btn .btn--era4} | Gift | Úsalo para obtener 2.580 diamantes, 1 paquete de unidad de élite, 288 materiales de poción de talento y 20 botellas enormes de poción de EXP |
-  | 605 | ![Tool_906043](/images/t/i_907117.png) | [Tool_906043](/ItemsES/con_1366/){: .btn .btn--era4} | Gift | Úsalo para obtener 5.180 diamantes, 1 paquete de unidad de élite, 300 pergaminos de hechizo y 10 pergaminos de templo |
-  | 606 | ![Tool_906045](/images/t/i_907102.png) | [Tool_906045](/ItemsES/con_1368/){: .btn .btn--era5} | Gift | Úsalo para obtener 60 diamantes y 1 paquete de componente de artefacto prémium |
-  | 607 | ![Tool_906046](/images/t/i_907048.png) | [Tool_906046](/ItemsES/con_1369/){: .btn .btn--era5} | Gift | Úsalo para obtener 300 diamantes y 1 paquete de componente de artefacto de privilegio |
-  | 608 | ![Tool_906051](/images/t/i_907102.png) | [Tool_906051](/ItemsES/con_1374/){: .btn .btn--era5} | Gift |  |
-  | 609 | ![Tool_906052](/images/t/i_907048.png) | [Tool_906052](/ItemsES/con_1375/){: .btn .btn--era5} | Gift |  |
-  | 610 | ![Tool_906053](/images/t/i_906047.png) | [Tool_906053](/ItemsES/con_1376/){: .btn .btn--era5} | Gift | Úsalo para obtener 300 diamantes y 30 tickets de canjeo de Emblemas Sagrados |
-  | 611 | ![Tool_906055](/images/t/i_906055.png) | [Tool_906055](/ItemsES/con_1378/){: .btn .btn--era5} | Gift |  |
-  | 612 | ![Tool_906056](/images/t/i_906056.png) | [Tool_906056](/ItemsES/con_1379/){: .btn .btn--era5} | Gift |  |
-  | 613 | ![Tool_906057](/images/t/i_907116.png) | [Tool_906057](/ItemsES/con_1380/){: .btn .btn--era4} | Gift |  |
-  | 614 | ![Tool_906058](/images/t/i_907117.png) | [Tool_906058](/ItemsES/con_1381/){: .btn .btn--era4} | Gift |  |
-  | 615 | ![Tool_906059](/images/t/i_907048.png) | [Tool_906059](/ItemsES/con_1382/){: .btn .btn--era5} | Gift |  |
-  | 616 | ![Tool_907020](/images/t/i_905001.png) | [Tool_907020](/ItemsES/con_1406/){: .btn .btn--era4} | Gift | Recompensa exclusiva de 2017 CJ que contiene 1 marco exclusivo de 2017 CJ. |
-  | 617 | ![Tool_907031](/images/t/i_907031.png) | [Tool_907031](/ItemsES/con_1417/){: .btn .btn--era4} | Gift | ¡Ábrelo para recibir grandes recompensas! |
-  | 618 | ![Tool_907035](/images/t/i_907035.png) | [Tool_907035](/ItemsES/con_1421/){: .btn .btn--era4} | Gift | Úsalo para seleccionar 1 de los siguientes: 5 fichas de Demonio del Abismo, 5 fichas de Guardia Dendroide, 5 fichas de Cíclope o 5 fichas de Maga |
-  | 619 | ![Tool_907036](/images/t/i_907036.png) | [Tool_907036](/ItemsES/con_1422/){: .btn .btn--era4} | Gift | Úsalo para seleccionar 1 de los siguientes: 500 pergaminos de hechizo, 300 Piedras de Forja celestiales o 300 pociones de talento |
-  | 620 | ![Tool_907037](/images/t/i_907037.png) | [Tool_907037](/ItemsES/con_1423/){: .btn .btn--era4} | Gift | Úsalo para seleccionar 1 de los siguientes: 1 Adelaide, Luna, Zydar o Sir Mullich de 1 estrella |
-  | 621 | ![Tool_907073](/images/t/i_907064.png) | [Tool_907073](/ItemsES/con_1459/){: .btn .btn--era4} | Gift | Úsalo para obtener una cierta cantidad de diamantes |
-  | 622 | ![Tool_907075](/images/t/i_907075.png) | [Tool_907075](/ItemsES/con_1461/){: .btn .btn--era4} | Gift | Úsalo para obtener 1.980 diamantes, 1 aspecto de Xeron Monstruo Nian y 1 marco de avatar Monstruo Nian |
-  | 623 | ![Tool_907080](/images/t/i_907080.png) | [Tool_907080](/ItemsES/con_1466/){: .btn .btn--era4} | Gift | Una bola de arroz blanda y dulce, cómela para paliar un poco la fatiga de la batalla. |
-  | 624 | ![Tool_907090](/images/t/i_907065.png) | [Tool_907090](/ItemsES/con_1476/){: .btn .btn--era4} | Gift | Úsalo para obtener 3.280 diamantes, 1 paquete de unidad de élite, 300 materiales de poción de talento y 15 cofres de Lista prémium |
-  | 625 | ![Tool_907150](/images/t/i_907150.png) | [Tool_907150](/ItemsES/con_1536/){: .btn .btn--era5} | Gift |  |
-  | 626 | ![Tool_907153](/images/t/i_907153.png) | [Tool_907153](/ItemsES/con_1539/){: .btn .btn--era4} | Gift |  |
-  | 627 | ![Tool_907154](/images/t/i_907154.png) | [Tool_907154](/ItemsES/con_1540/){: .btn .btn--era4} | Gift |  |
-  | 628 | ![Tool_907155](/images/t/i_907155.png) | [Tool_907155](/ItemsES/con_1541/){: .btn .btn--era5} | Gift |  |
-  | 629 | ![Tool_907156](/images/t/i_907156.png) | [Tool_907156](/ItemsES/con_1542/){: .btn .btn--era6} | Gift |  |
-  | 630 | ![Tool_907157](/images/t/i_907157.png) | [Tool_907157](/ItemsES/con_1543/){: .btn .btn--era6} | Gift |  |
-  | 631 | ![Tool_907158](/images/t/i_907158.png) | [Tool_907158](/ItemsES/con_1544/){: .btn .btn--era6} | Gift |  |
-  | 632 | ![Tool_907159](/images/t/i_907159.png) | [Tool_907159](/ItemsES/con_1545/){: .btn .btn--era6} | Gift |  |
-  | 633 | ![Tool_907160](/images/t/i_907160.png) | [Tool_907160](/ItemsES/con_1546/){: .btn .btn--era5} | Gift |  |
-  | 634 | ![Tool_907161](/images/t/i_907161.png) | [Tool_907161](/ItemsES/con_1547/){: .btn .btn--era6} | Gift |  |
-  | 635 | ![Tool_907162](/images/t/i_907162.png) | [Tool_907162](/ItemsES/con_1548/){: .btn .btn--era5} | Gift |  |
-  | 636 | ![Tool_907165](/images/t/i_907165.png) | [Tool_907165](/ItemsES/con_1551/){: .btn .btn--era5} | Gift |  |
-  | 637 | ![Tool_907166](/images/t/i_907166.png) | [Tool_907166](/ItemsES/con_1552/){: .btn .btn--era6} | Gift |  |
-  | 638 | ![Tool_907167](/images/t/i_907167.png) | [Tool_907167](/ItemsES/con_1553/){: .btn .btn--era5} | Gift |  |
-  | 639 | ![Tool_907229](/images/t/i_907167.png) | [Tool_907229](/ItemsES/con_1613/){: .btn .btn--era4} | Gift |  |
-  | 640 | ![Tool_907230](/images/t/i_907167.png) | [Tool_907230](/ItemsES/con_1614/){: .btn .btn--era4} | Gift |  |
-  | 641 | ![Tool_907231](/images/t/i_907167.png) | [Tool_907231](/ItemsES/con_1615/){: .btn .btn--era4} | Gift |  |
-  | 642 | ![Tool_907232](/images/t/i_907167.png) | [Tool_907232](/ItemsES/con_1616/){: .btn .btn--era4} | Gift |  |
-  | 643 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsES/con_1796/){: .btn .btn--era4} | Gift |  |
-  | 644 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsES/con_1797/){: .btn .btn--era4} | Gift |  |
-  | 645 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsES/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 646 |  | [Tool_907599](/ItemsES/con_2133/){: .btn .btn--era4} | Gift | Otorga 20 Piedras de Alma de Monstruo Marino Ancestral y 980 diamantes. |
-  | 647 |  | [Tool_907600](/ItemsES/con_2134/){: .btn .btn--era4} | Gift | Otorga 50 Piedras de Alma de Monstruo Marino Ancestral y 2180 diamantes. |
-  | 648 |  | [Tool_907601](/ItemsES/con_2135/){: .btn .btn--era4} | Gift | Otorga 100 Piedras de Alma de Monstruo Marino Ancestral y 3480 diamantes. |
-  | 649 |  | [Tool_907602](/ItemsES/con_2137/){: .btn .btn--era5} | Gift |  |
-  | 650 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsES/con_2099/){: .btn .btn--era4} | Gift |  |
-  | 651 | ![Una bolsa de oro](/images/t/i_510.png) | [Una bolsa de oro](/ItemsES/con_1563/){: .btn .btn--era3} | Gift | ¡Un paquete con 77.777 piezas de oro! |
+  | 589 |  | [Red de pesca x10](/es/Items/con_2144/){: .btn .btn--era4} | Gift | Concede 10 redes de pesca y 880 diamantes. |
+  | 590 |  | [Red de pesca x2](/es/Items/con_2142/){: .btn .btn--era4} | Gift | Concede 2 redes de pesca y 60 diamantes. |
+  | 591 |  | [Red de pesca x20](/es/Items/con_2145/){: .btn .btn--era4} | Gift | Concede 20 redes de pesca y 1630 diamantes. |
+  | 592 |  | [Red de pesca x40](/es/Items/con_2146/){: .btn .btn--era4} | Gift | Concede 40 redes de pesca y 3280 diamantes. |
+  | 593 |  | [Red de pesca x5](/es/Items/con_2143/){: .btn .btn--era4} | Gift | Concede 5 redes de pesca y 450 diamantes. |
+  | 594 |  | [Red de pesca x80](/es/Items/con_2147/){: .btn .btn--era4} | Gift | Concede 80 redes de pesca y 6480 diamantes. |
+  | 595 | ![Regalo del 1 de abril](/images/t/i_907196.png) | [Regalo del 1 de abril](/ItemsES/con_2130/){: .btn .btn--era5} | Gift | Úsalo para optar a conseguir 200 diamantes. |
+  | 596 |  | [Regalo misterioso de elfo](/ItemsES/con_1403/){: .btn .btn--era4} | Gift | Un regalo misterioso procedente de un Hada. ¡Ábrelo para recibir una recompensa! |
+  | 597 | ![Revelations: Ezio](/images/t/i_907438.png) | [Revelations: Ezio](/ItemsES/con_1817/){: .btn .btn--era4} | Gift | Concede 980 diamantes y 1 aspecto Revelations: Ezio. |
+  | 598 | ![Revelations: Oferta especial de Ezio](/images/t/i_907438.png) | [Revelations: Oferta especial de Ezio](/ItemsES/con_1816/){: .btn .btn--era4} | Gift | Concede 680 diamantes, 1 aspecto Revelations: Ezio y 10 pergaminos de templo antiguo. |
+  | 599 | ![Señor de la guerra del mar](/images/a/avatarFrame_202.png) | [Señor de la guerra del mar](/ItemsES/con_1095/){: .btn .btn--era5} | Gift | Se usa para recibir el marco de avatar de Señor de la guerra del mar. |
+  | 600 | ![Suministros del ejército](/images/t/i_907132.png) | [Suministros del ejército](/ItemsES/con_1083/){: .btn .btn--era5} | Gift | Una recompensa de Xeron para el evento La captura de Roland. Puedes conseguir recursos aleatorios muy valiosos. |
+  | 601 | ![Ticket de descuento de Astrología](/images/t/i_3018.png) | [Ticket de descuento de Astrología](/ItemsES/con_700/){: .btn .btn--era5} | Gift | Un cofre de bronce con muchos tesoros. |
+  | 602 | ![Tienda del Rey](/images/t/i_907022.png) | [Tienda del Rey](/ItemsES/con_1408/){: .btn .btn--era4} | Gift | Hay una probabilidad de que obtengas un cierto número de puntos de privilegio tras su uso |
+  | 603 | ![Tool_2991](/images/t/i_907167.png) | [Tool_2991](/ItemsES/con_675/){: .btn .btn--era4} | Gift |  |
+  | 604 |  | [Tool_303001](/ItemsES/con_743/){: .btn .btn--era4} | Gift |  |
+  | 605 |  | [Tool_303002](/ItemsES/con_744/){: .btn .btn--era4} | Gift |  |
+  | 606 |  | [Tool_303003](/ItemsES/con_745/){: .btn .btn--era4} | Gift |  |
+  | 607 | ![Tool_408001](/images/t/i_907046.png) | [Tool_408001](/ItemsES/con_961/){: .btn .btn--era3} | Gift |  |
+  | 608 | ![Tool_408002](/images/t/i_907046.png) | [Tool_408002](/ItemsES/con_962/){: .btn .btn--era4} | Gift |  |
+  | 609 | ![Tool_613002](/images/t/i_907054.png) | [Tool_613002](/ItemsES/con_1070/){: .btn .btn--era5} | Gift |  |
+  | 610 | ![Tool_906041](/images/t/i_907116.png) | [Tool_906041](/ItemsES/con_1364/){: .btn .btn--era4} | Gift | Úsalo para obtener 2.580 diamantes, 1 paquete de unidad de élite, 288 materiales de poción de talento y 20 botellas enormes de poción de EXP |
+  | 611 | ![Tool_906043](/images/t/i_907117.png) | [Tool_906043](/ItemsES/con_1366/){: .btn .btn--era4} | Gift | Úsalo para obtener 5.180 diamantes, 1 paquete de unidad de élite, 300 pergaminos de hechizo y 10 pergaminos de templo |
+  | 612 | ![Tool_906045](/images/t/i_907102.png) | [Tool_906045](/ItemsES/con_1368/){: .btn .btn--era5} | Gift | Úsalo para obtener 60 diamantes y 1 paquete de componente de artefacto prémium |
+  | 613 | ![Tool_906046](/images/t/i_907048.png) | [Tool_906046](/ItemsES/con_1369/){: .btn .btn--era5} | Gift | Úsalo para obtener 300 diamantes y 1 paquete de componente de artefacto de privilegio |
+  | 614 | ![Tool_906051](/images/t/i_907102.png) | [Tool_906051](/ItemsES/con_1374/){: .btn .btn--era5} | Gift |  |
+  | 615 | ![Tool_906052](/images/t/i_907048.png) | [Tool_906052](/ItemsES/con_1375/){: .btn .btn--era5} | Gift |  |
+  | 616 | ![Tool_906053](/images/t/i_906047.png) | [Tool_906053](/ItemsES/con_1376/){: .btn .btn--era5} | Gift | Úsalo para obtener 300 diamantes y 30 tickets de canjeo de Emblemas Sagrados |
+  | 617 | ![Tool_906055](/images/t/i_906055.png) | [Tool_906055](/ItemsES/con_1378/){: .btn .btn--era5} | Gift |  |
+  | 618 | ![Tool_906056](/images/t/i_906056.png) | [Tool_906056](/ItemsES/con_1379/){: .btn .btn--era5} | Gift |  |
+  | 619 | ![Tool_906057](/images/t/i_907116.png) | [Tool_906057](/ItemsES/con_1380/){: .btn .btn--era4} | Gift |  |
+  | 620 | ![Tool_906058](/images/t/i_907117.png) | [Tool_906058](/ItemsES/con_1381/){: .btn .btn--era4} | Gift |  |
+  | 621 | ![Tool_906059](/images/t/i_907048.png) | [Tool_906059](/ItemsES/con_1382/){: .btn .btn--era5} | Gift |  |
+  | 622 | ![Tool_907020](/images/t/i_905001.png) | [Tool_907020](/ItemsES/con_1406/){: .btn .btn--era4} | Gift | Recompensa exclusiva de 2017 CJ que contiene 1 marco exclusivo de 2017 CJ. |
+  | 623 | ![Tool_907031](/images/t/i_907031.png) | [Tool_907031](/ItemsES/con_1417/){: .btn .btn--era4} | Gift | ¡Ábrelo para recibir grandes recompensas! |
+  | 624 | ![Tool_907035](/images/t/i_907035.png) | [Tool_907035](/ItemsES/con_1421/){: .btn .btn--era4} | Gift | Úsalo para seleccionar 1 de los siguientes: 5 fichas de Demonio del Abismo, 5 fichas de Guardia Dendroide, 5 fichas de Cíclope o 5 fichas de Maga |
+  | 625 | ![Tool_907036](/images/t/i_907036.png) | [Tool_907036](/ItemsES/con_1422/){: .btn .btn--era4} | Gift | Úsalo para seleccionar 1 de los siguientes: 500 pergaminos de hechizo, 300 Piedras de Forja celestiales o 300 pociones de talento |
+  | 626 | ![Tool_907037](/images/t/i_907037.png) | [Tool_907037](/ItemsES/con_1423/){: .btn .btn--era4} | Gift | Úsalo para seleccionar 1 de los siguientes: 1 Adelaide, Luna, Zydar o Sir Mullich de 1 estrella |
+  | 627 | ![Tool_907073](/images/t/i_907064.png) | [Tool_907073](/ItemsES/con_1459/){: .btn .btn--era4} | Gift | Úsalo para obtener una cierta cantidad de diamantes |
+  | 628 | ![Tool_907075](/images/t/i_907075.png) | [Tool_907075](/ItemsES/con_1461/){: .btn .btn--era4} | Gift | Úsalo para obtener 1.980 diamantes, 1 aspecto de Xeron Monstruo Nian y 1 marco de avatar Monstruo Nian |
+  | 629 | ![Tool_907080](/images/t/i_907080.png) | [Tool_907080](/ItemsES/con_1466/){: .btn .btn--era4} | Gift | Una bola de arroz blanda y dulce, cómela para paliar un poco la fatiga de la batalla. |
+  | 630 | ![Tool_907090](/images/t/i_907065.png) | [Tool_907090](/ItemsES/con_1476/){: .btn .btn--era4} | Gift | Úsalo para obtener 3.280 diamantes, 1 paquete de unidad de élite, 300 materiales de poción de talento y 15 cofres de Lista prémium |
+  | 631 | ![Tool_907150](/images/t/i_907150.png) | [Tool_907150](/ItemsES/con_1536/){: .btn .btn--era5} | Gift |  |
+  | 632 | ![Tool_907153](/images/t/i_907153.png) | [Tool_907153](/ItemsES/con_1539/){: .btn .btn--era4} | Gift |  |
+  | 633 | ![Tool_907154](/images/t/i_907154.png) | [Tool_907154](/ItemsES/con_1540/){: .btn .btn--era4} | Gift |  |
+  | 634 | ![Tool_907155](/images/t/i_907155.png) | [Tool_907155](/ItemsES/con_1541/){: .btn .btn--era5} | Gift |  |
+  | 635 | ![Tool_907156](/images/t/i_907156.png) | [Tool_907156](/ItemsES/con_1542/){: .btn .btn--era6} | Gift |  |
+  | 636 | ![Tool_907157](/images/t/i_907157.png) | [Tool_907157](/ItemsES/con_1543/){: .btn .btn--era6} | Gift |  |
+  | 637 | ![Tool_907158](/images/t/i_907158.png) | [Tool_907158](/ItemsES/con_1544/){: .btn .btn--era6} | Gift |  |
+  | 638 | ![Tool_907159](/images/t/i_907159.png) | [Tool_907159](/ItemsES/con_1545/){: .btn .btn--era6} | Gift |  |
+  | 639 | ![Tool_907160](/images/t/i_907160.png) | [Tool_907160](/ItemsES/con_1546/){: .btn .btn--era5} | Gift |  |
+  | 640 | ![Tool_907161](/images/t/i_907161.png) | [Tool_907161](/ItemsES/con_1547/){: .btn .btn--era6} | Gift |  |
+  | 641 | ![Tool_907162](/images/t/i_907162.png) | [Tool_907162](/ItemsES/con_1548/){: .btn .btn--era5} | Gift |  |
+  | 642 | ![Tool_907165](/images/t/i_907165.png) | [Tool_907165](/ItemsES/con_1551/){: .btn .btn--era5} | Gift |  |
+  | 643 | ![Tool_907166](/images/t/i_907166.png) | [Tool_907166](/ItemsES/con_1552/){: .btn .btn--era6} | Gift |  |
+  | 644 | ![Tool_907167](/images/t/i_907167.png) | [Tool_907167](/ItemsES/con_1553/){: .btn .btn--era5} | Gift |  |
+  | 645 | ![Tool_907229](/images/t/i_907167.png) | [Tool_907229](/ItemsES/con_1613/){: .btn .btn--era4} | Gift |  |
+  | 646 | ![Tool_907230](/images/t/i_907167.png) | [Tool_907230](/ItemsES/con_1614/){: .btn .btn--era4} | Gift |  |
+  | 647 | ![Tool_907231](/images/t/i_907167.png) | [Tool_907231](/ItemsES/con_1615/){: .btn .btn--era4} | Gift |  |
+  | 648 | ![Tool_907232](/images/t/i_907167.png) | [Tool_907232](/ItemsES/con_1616/){: .btn .btn--era4} | Gift |  |
+  | 649 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsES/con_1796/){: .btn .btn--era4} | Gift |  |
+  | 650 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsES/con_1797/){: .btn .btn--era4} | Gift |  |
+  | 651 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsES/con_1922/){: .btn .btn--era4} | Gift |  |
+  | 652 |  | [Tool_907599](/ItemsES/con_2133/){: .btn .btn--era4} | Gift | Otorga 20 Piedras de Alma de Monstruo Marino Ancestral y 980 diamantes. |
+  | 653 |  | [Tool_907600](/ItemsES/con_2134/){: .btn .btn--era4} | Gift | Otorga 50 Piedras de Alma de Monstruo Marino Ancestral y 2180 diamantes. |
+  | 654 |  | [Tool_907601](/ItemsES/con_2135/){: .btn .btn--era4} | Gift | Otorga 100 Piedras de Alma de Monstruo Marino Ancestral y 3480 diamantes. |
+  | 655 |  | [Tool_907602](/ItemsES/con_2137/){: .btn .btn--era5} | Gift | Úsalo para desbloquear 1 de los siguientes artículos: Avatar de Vidente Regnan, avatar de Hechicera Maligna, avatar de Demonio de Hielo, avatar de Trol o avatar de Adjudicadora. |
+  | 656 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsES/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 657 | ![Una bolsa de oro](/images/t/i_510.png) | [Una bolsa de oro](/ItemsES/con_1563/){: .btn .btn--era3} | Gift | ¡Un paquete con 77.777 piezas de oro! |

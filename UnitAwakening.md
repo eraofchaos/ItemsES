@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Unit Awakening.md"
 toc: false
@@ -85,5 +85,5 @@ classes: wide
   | 71 | ![Tool_949904](/images/u/tia_yurenyongshi.jpg) | [Tool_949904](/ItemsES/unt_352/){: .btn .btn--era5} | Awakening Soul |  |
   | 72 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/ItemsES/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
   | 73 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/ItemsES/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
-  | 74 | ![Tool_949908](/images/u/tia_haiguai.jpg) | [Tool_949908](/ItemsES/unt_355/){: .btn .btn--era5} | Awakening Soul |  |
+  | 74 | ![Tool_949908](/images/u/tia_haiguai.jpg) | [Tool_949908](/ItemsES/unt_355/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Monstruo Marino Ancestral. |
   | 75 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/ItemsES/unt_356/){: .btn .btn--era5} | Awakening Soul |  |

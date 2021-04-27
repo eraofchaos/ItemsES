@@ -2,7 +2,7 @@
 title: "Item - Event related"
 permalink: /Events/
 excerpt: "Event related in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Event related.md"
 toc: false
@@ -182,73 +182,74 @@ classes: wide
   | 168 | ![Poción de talento de lanzador](/images/t/i_3048.png) | [Poción de talento de lanzador](/ItemsES/con_790/){: .btn .btn--era4} | Event related | Esta poción mejora los atributos de tus unidades lanzadoras y mejora sus habilidades. |
   | 169 | ![Poción de talento defensiva](/images/t/i_3045.png) | [Poción de talento defensiva](/ItemsES/con_787/){: .btn .btn--era4} | Event related | Esta poción mejora los atributos de tus unidades defensivas y mejora sus habilidades. |
   | 170 | ![Poción de talento ofensiva](/images/t/i_3044.png) | [Poción de talento ofensiva](/ItemsES/con_786/){: .btn .btn--era4} | Event related | Esta poción mejora los atributos de tus unidades ofensivas y mejora sus habilidades. |
-  | 171 | ![Regalo desconocido](/images/t/i_10015.png) | [Regalo desconocido](/ItemsES/con_529/){: .btn .btn--era4} | Event related | Aunque estos regalos no estén firmados, son la mejor prueba de que la gente te aprecia. |
-  | 172 | ![Reno de juguete](/images/t/i_690014.png) | [Reno de juguete](/ItemsES/con_1088/){: .btn .btn--era4} | Event related | Objeto del evento Ruleta de Navidad. Durante el periodo del evento se puede intercambiar por recompensas. |
-  | 173 | ![Rosa Estelar](/images/t/i_3060.png) | [Rosa Estelar](/ItemsES/con_812/){: .btn .btn--era4} | Event related | Los objetos exclusivos del Día de San Valentín se pueden intercambiar por objetos de evento |
-  | 174 | ![Rosa Lunar](/images/t/i_3059.png) | [Rosa Lunar](/ItemsES/con_558/){: .btn .btn--era4} | Event related | Una rosa exótica que recogió un héroe en un sendero. Se puede intercambiar por recompensas en el evento Intercambio de rosas 2021 del Día de San Valentín. |
-  | 175 | ![Rosa azul](/images/t/i_3059.png) | [Rosa azul](/ItemsES/con_801/){: .btn .btn--era4} | Event related |  |
-  | 176 | ![Rosa roja](/images/t/i_3058.png) | [Rosa roja](/ItemsES/con_800/){: .btn .btn--era4} | Event related |  |
-  | 177 |  | [Runa de Lista de Comandantes](/ItemsES/con_781/){: .btn .btn--era4} | Event related | Objeto importante para mejorar tu Lista de Comandantes. |
-  | 178 |  | [Runa de Lista de criaturas campeonas](/ItemsES/con_782/){: .btn .btn--era4} | Event related | Objeto importante para mejorar tu Lista de criaturas campeonas. |
-  | 179 |  | [Runa de Lista de unidades R](/ItemsES/con_778/){: .btn .btn--era4} | Event related | Objeto importante para mejorar tu Lista de unidades R. |
-  | 180 |  | [Runa de Lista de unidades SR](/ItemsES/con_779/){: .btn .btn--era4} | Event related | Objeto importante para mejorar tu Lista de unidades SR. |
-  | 181 |  | [Runa de Lista de unidades SSR](/ItemsES/con_780/){: .btn .btn--era4} | Event related | Objeto importante para mejorar tu Lista de unidades SSR. |
-  | 182 |  | [Runa de Lista especial](/ItemsES/con_762/){: .btn .btn--era4} | Event related | Objeto necesario para mejorar todas tus Listas especiales. |
-  | 183 | ![Runa de Lista neutral](/images/t/i_tool_tujian16.png) | [Runa de Lista neutral](/ItemsES/con_869/){: .btn .btn--era3} | Event related | Objeto importante para mejorar tu Lista neutral. |
-  | 184 | ![Runas de Lista Defensiva](/images/t/i_tool_tujian2.png) | [Runas de Lista Defensiva](/ItemsES/con_739/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Defensa. |
-  | 185 | ![Runas de Lista Enorme](/images/t/i_tool_tujian9.png) | [Runas de Lista Enorme](/ItemsES/con_750/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de unidades masivas. |
-  | 186 | ![Runas de Lista Grande](/images/t/i_tool_tujian8.png) | [Runas de Lista Grande](/ItemsES/con_749/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de unidades grandes. |
-  | 187 | ![Runas de Lista Mediana](/images/t/i_tool_tujian7.png) | [Runas de Lista Mediana](/ItemsES/con_748/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de unidades medianas. |
-  | 188 | ![Runas de Lista Ofensiva](/images/t/i_tool_tujian1.png) | [Runas de Lista Ofensiva](/ItemsES/con_734/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Ataque. |
-  | 189 | ![Runas de Lista Pequeña](/images/t/i_tool_tujian6.png) | [Runas de Lista Pequeña](/ItemsES/con_747/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de unidades pequeñas. |
-  | 190 | ![Runas de Lista de Arquero](/images/t/i_tool_tujian4.png) | [Runas de Lista de Arquero](/ItemsES/con_742/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Arquero. |
-  | 191 | ![Runas de Lista de Bastión](/images/t/i_tool_tujian8.png) | [Runas de Lista de Bastión](/ItemsES/con_754/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Bastión. |
-  | 192 | ![Runas de Lista de Cala](/images/t/i_tool_tujian15.png) | [Runas de Lista de Cala](/ItemsES/con_868/){: .btn .btn--era3} | Event related | Objeto importante para mejorar tus Listas de Cala. |
-  | 193 | ![Runas de Lista de Carga](/images/t/i_tool_tujian3.png) | [Runas de Lista de Carga](/ItemsES/con_741/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Carga. |
-  | 194 | ![Runas de Lista de Castillo](/images/t/i_tool_tujian6.png) | [Runas de Lista de Castillo](/ItemsES/con_752/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Castillo. |
-  | 195 |  | [Runas de Lista de Conflujo](/ItemsES/con_791/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Conflujo. |
-  | 196 | ![Runas de Lista de Fortaleza](/images/t/i_tool_tujian14.png) | [Runas de Lista de Fortaleza](/ItemsES/con_818/){: .btn .btn--era3} | Event related | Objeto importante para mejorar tus Listas de Fortaleza. |
-  | 197 | ![Runas de Lista de Infierno](/images/t/i_tool_tujian10.png) | [Runas de Lista de Infierno](/ItemsES/con_777/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Infierno. |
-  | 198 | ![Runas de Lista de Lanzahechizos](/images/t/i_tool_tujian5.png) | [Runas de Lista de Lanzahechizos](/ItemsES/con_746/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Lanzahechizos. |
-  | 199 | ![Runas de Lista de Mazmorra](/images/t/i_tool_tujian13.png) | [Runas de Lista de Mazmorra](/ItemsES/con_792/){: .btn .btn--era3} | Event related | Objeto importante para mejorar tus Listas de Mazmorra. |
-  | 200 | ![Runas de Lista de Murallas](/images/t/i_tool_tujian7.png) | [Runas de Lista de Murallas](/ItemsES/con_753/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Murallas. |
-  | 201 | ![Runas de Lista de Necrópolis](/images/t/i_tool_tujian9.png) | [Runas de Lista de Necrópolis](/ItemsES/con_755/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Necrópolis. |
-  | 202 | ![Runas de Lista de Torre](/images/t/i_tool_tujian11.png) | [Runas de Lista de Torre](/ItemsES/con_785/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Torre. |
-  | 203 | ![Sello maléfico](/images/t/i_3051.png) | [Sello maléfico](/ItemsES/con_793/){: .btn .btn--era4} | Event related | Un sello que contiene poderes letales. Se puede intercambiar por objetos de la facción de Necrópolis en los eventos correspondientes. |
-  | 204 | ![Sopa agria de manos de cerdo de Yunnan](/images/t/i_81531111.png) | [Sopa agria de manos de cerdo de Yunnan](/ItemsES/con_1226/){: .btn .btn--era3} | Event related | Las manos de cerdo, muy ricas en colágeno y con un sabor muy suave, se cocinan lentamente en una deliciosa sopa agria cuyo sabor original se obtiene siguiendo una receta secreta. Se trata de un manjar muy poco habitual. Sin embargo, este estofado en cuestión parece todavía crudo. |
-  | 205 | ![Sopa de carnero de Jianyang Sichuan](/images/t/i_81511131.png) | [Sopa de carnero de Jianyang Sichuan](/ItemsES/con_1172/){: .btn .btn--era3} | Event related | La gente de la ciudad de Jianyang, en la provincia de Sichuan, prepara este plato cociendo la carne en un caldo de huesos de carpa y carnero. Un dicho chino dice que la lo más seguro es que la combinación de pescado y carnero tenga un sabor fresco, aunque este estofado en cuestión parece todavía crudo. |
-  | 206 | ![Tejido resistente al frío](/images/t/i_10016.png) | [Tejido resistente al frío](/ItemsES/con_530/){: .btn .btn--era4} | Event related | Un tejido procesado de manera especial usando el pelaje de un animal del norte. Su elevado precio puede deberse a que ofrece una resistencia al frío excelente y una sensación muy confortable. |
-  | 207 | ![Ticket de canjeo de Emblema Sagrado](/images/t/i_10003.png) | [Ticket de canjeo de Emblema Sagrado](/ItemsES/con_513/){: .btn .btn--era5} | Event related | Puede intercambiarse por Emblemas Sagrados poco comunes en los eventos correspondientes |
-  | 208 | ![Ticket de duelo](/images/t/i_3042.png) | [Ticket de duelo](/ItemsES/con_784/){: .btn .btn--era5} | Event related | Una invitación al Duelo de Héroes. ¡Lucha contra otros maestros! Se entrega por correo electrónico los lunes, miércoles y viernes. |
-  | 209 | ![Ticket de entrada al mercado](/images/t/i_8150000.png) | [Ticket de entrada al mercado](/ItemsES/con_1157/){: .btn .btn--era4} | Event related | Objeto necesario para acceder al mercado y comprar ingredientes. Se puede solicitar en el buzón tras gastar energía. |
-  | 210 | ![Tool_10001](/images/t/i_10001.png) | [Tool_10001](/ItemsES/con_511/){: .btn .btn--era4} | Event related | ¡Los objetos exclusivos del evento de Año Nuevo se pueden intercambiar por eventos poco comunes en los eventos correspondientes! |
-  | 211 | ![Tool_10008](/images/t/i_10008.png) | [Tool_10008](/ItemsES/con_517/){: .btn .btn--era4} | Event related | Puede intercambiarse por un objeto poco común en los eventos correspondientes. ¡Diviértete! |
-  | 212 | ![Tool_10009](/images/t/i_10009.png) | [Tool_10009](/ItemsES/con_518/){: .btn .btn--era4} | Event related | Se puede intercambiar por un objeto poco común en los eventos correspondientes. ¡Diviértete! |
-  | 213 | ![Tool_10010](/images/t/i_10010.png) | [Tool_10010](/ItemsES/con_524/){: .btn .btn--era4} | Event related |  |
-  | 214 | ![Tool_10011](/images/t/i_10011.png) | [Tool_10011](/ItemsES/con_525/){: .btn .btn--era4} | Event related |  |
-  | 215 | ![Tool_10012](/images/t/i_10012.png) | [Tool_10012](/ItemsES/con_526/){: .btn .btn--era4} | Event related |  |
-  | 216 | ![Tool_10014](/images/t/i_10014.png) | [Tool_10014](/ItemsES/con_528/){: .btn .btn--era4} | Event related | Se puede intercambiar por un objeto poco común en los eventos correspondientes. ¡Diviértete! |
-  | 217 |  | [Tool_10046](/ItemsES/con_2135/){: .btn .btn--era5} | Event related |  |
-  | 218 | ![Tool_3064](/images/t/i_3064.png) | [Tool_3064](/ItemsES/con_806/){: .btn .btn--era4} | Event related |  |
-  | 219 |  | [Tool_31045](/ItemsES/con_866/){: .btn .btn--era5} | Event related | ¡Dicen que encontrar todos los símbolos misteriosos de tierras extranjeras indicará el camino hacia un tesoro enorme! |
-  | 220 | ![Tool_93601](/images/t/juexing_601.jpg) | [Tool_93601](/ItemsES/con_2050/){: .btn .btn--era5} | Event related |  |
-  | 221 | ![Tool_93602](/images/t/juexing_602.jpg) | [Tool_93602](/ItemsES/con_2051/){: .btn .btn--era5} | Event related |  |
-  | 222 | ![Tool_93608](/images/t/juexing_608.jpg) | [Tool_93608](/ItemsES/con_2057/){: .btn .btn--era5} | Event related |  |
-  | 223 | ![Tool_93708](/images/t/juexing_708.jpg) | [Tool_93708](/ItemsES/con_2065/){: .btn .btn--era5} | Event related |  |
-  | 224 | ![Tool_93804](/images/t/juexing_804.jpg) | [Tool_93804](/ItemsES/con_2068/){: .btn .btn--era5} | Event related |  |
-  | 225 | ![Tool_939901](/images/t/juexing_9901.jpg) | [Tool_939901](/ItemsES/con_2080/){: .btn .btn--era5} | Event related |  |
-  | 226 | ![Tool_939902](/images/t/juexing_9902.png) | [Tool_939902](/ItemsES/con_2081/){: .btn .btn--era5} | Event related |  |
-  | 227 | ![Tool_939904](/images/t/juexing_9904.jpg) | [Tool_939904](/ItemsES/con_2082/){: .btn .btn--era5} | Event related |  |
-  | 228 | ![Tool_939905](/images/t/juexing_9905.jpg) | [Tool_939905](/ItemsES/con_2083/){: .btn .btn--era5} | Event related |  |
-  | 229 | ![Tool_939906](/images/t/juexing_9906.jpg) | [Tool_939906](/ItemsES/con_2084/){: .btn .btn--era5} | Event related |  |
-  | 230 | ![Tool_939908](/images/t/juexing_9908.png) | [Tool_939908](/ItemsES/con_2085/){: .btn .btn--era5} | Event related |  |
-  | 231 | ![Tool_939909](/images/t/juexing_9909.jpg) | [Tool_939909](/ItemsES/con_2086/){: .btn .btn--era5} | Event related |  |
-  | 232 | ![Tortuga Dragón con caparazón de cacerola de acero](/images/t/i_81521231.png) | [Tortuga Dragón con caparazón de cacerola de acero](/ItemsES/con_1208/){: .btn .btn--era3} | Event related | «Saludos. Soy la Tortuga Dragón de acero. Como verás, mi caparazón es de plástico». |
-  | 233 | ![Tortuga Dragón con caparazón mecánico de cacerola](/images/t/i_81512231.png) | [Tortuga Dragón con caparazón mecánico de cacerola](/ItemsES/con_1187/){: .btn .btn--era3} | Event related | «Saludos. Soy la Tortuga Dragón mecánica. Como verás, mi caparazón está hecho en un 30% de hierro forjado». |
-  | 234 | ![Trineo de juguete](/images/t/i_690015.png) | [Trineo de juguete](/ItemsES/con_1089/){: .btn .btn--era4} | Event related | Objeto del evento Ruleta de Navidad. Durante el periodo del evento se puede intercambiar por recompensas. |
-  | 235 | ![Trébol](/images/t/i_10023.png) | [Trébol](/ItemsES/con_537/){: .btn .btn--era4} | Event related | Las cuatro hojas del trébol simbolizan la fama, la riqueza, el amor y la salud. |
-  | 236 | ![Verduras encurtidas con intestinos de Zhangzhou Fujian](/images/t/i_81531331.png) | [Verduras encurtidas con intestinos de Zhangzhou Fujian](/ItemsES/con_1241/){: .btn .btn--era3} | Event related | Verduras encurtidas dulces y amargas de Luxi, intestinos grandes y aromáticos cocidos, brotes frescos de bambú y un delicioso caldo de huesos conforman este plato único y peculiar de Zhangzhou. Sin embargo, este estofado en cuestión parece todavía crudo. |
-  | 237 |  | [Volver](/ItemsES/con_863/){: .btn .btn--era5} | Event related | ¡Dicen que encontrar todos los símbolos misteriosos de tierras extranjeras indicará el camino hacia un tesoro enorme! |
-  | 238 | ![Zapapico de hierro](/images/t/i_10025.png) | [Zapapico de hierro](/ItemsES/con_539/){: .btn .btn--era4} | Event related | Puedes usarlo para participar en el evento de minería. Sin embargo, al estar fabricado con materiales endebles, se romperá tras utilizarlo 1 vez. |
-  | 239 |  | [de los](/ItemsES/con_864/){: .btn .btn--era5} | Event related | ¡Dicen que encontrar todos los símbolos misteriosos de tierras extranjeras indicará el camino hacia un tesoro enorme! |
-  | 240 | ![Árbol de Navidad de juguete](/images/t/i_690016.png) | [Árbol de Navidad de juguete](/ItemsES/con_1090/){: .btn .btn--era4} | Event related | Objeto del evento Ruleta de Navidad. Durante el periodo del evento se puede intercambiar por recompensas. |
+  | 171 |  | [Red de pesca](/es/Items/con_2148/){: .btn .btn--era4} | Event related | Una herramienta para pescar elaborada por pescadores de alta mar. Se puede usar durante el evento Maestro pescador. |
+  | 172 | ![Regalo desconocido](/images/t/i_10015.png) | [Regalo desconocido](/ItemsES/con_529/){: .btn .btn--era4} | Event related | Aunque estos regalos no estén firmados, son la mejor prueba de que la gente te aprecia. |
+  | 173 | ![Reno de juguete](/images/t/i_690014.png) | [Reno de juguete](/ItemsES/con_1088/){: .btn .btn--era4} | Event related | Objeto del evento Ruleta de Navidad. Durante el periodo del evento se puede intercambiar por recompensas. |
+  | 174 | ![Rosa Estelar](/images/t/i_3060.png) | [Rosa Estelar](/ItemsES/con_812/){: .btn .btn--era4} | Event related | Los objetos exclusivos del Día de San Valentín se pueden intercambiar por objetos de evento |
+  | 175 | ![Rosa Lunar](/images/t/i_3059.png) | [Rosa Lunar](/ItemsES/con_558/){: .btn .btn--era4} | Event related | Una rosa exótica que recogió un héroe en un sendero. Se puede intercambiar por recompensas en el evento Intercambio de rosas 2021 del Día de San Valentín. |
+  | 176 | ![Rosa azul](/images/t/i_3059.png) | [Rosa azul](/ItemsES/con_801/){: .btn .btn--era4} | Event related |  |
+  | 177 | ![Rosa roja](/images/t/i_3058.png) | [Rosa roja](/ItemsES/con_800/){: .btn .btn--era4} | Event related |  |
+  | 178 |  | [Runa de Lista de Comandantes](/ItemsES/con_781/){: .btn .btn--era4} | Event related | Objeto importante para mejorar tu Lista de Comandantes. |
+  | 179 |  | [Runa de Lista de criaturas campeonas](/ItemsES/con_782/){: .btn .btn--era4} | Event related | Objeto importante para mejorar tu Lista de criaturas campeonas. |
+  | 180 |  | [Runa de Lista de unidades R](/ItemsES/con_778/){: .btn .btn--era4} | Event related | Objeto importante para mejorar tu Lista de unidades R. |
+  | 181 |  | [Runa de Lista de unidades SR](/ItemsES/con_779/){: .btn .btn--era4} | Event related | Objeto importante para mejorar tu Lista de unidades SR. |
+  | 182 |  | [Runa de Lista de unidades SSR](/ItemsES/con_780/){: .btn .btn--era4} | Event related | Objeto importante para mejorar tu Lista de unidades SSR. |
+  | 183 |  | [Runa de Lista especial](/ItemsES/con_762/){: .btn .btn--era4} | Event related | Objeto necesario para mejorar todas tus Listas especiales. |
+  | 184 | ![Runa de Lista neutral](/images/t/i_tool_tujian16.png) | [Runa de Lista neutral](/ItemsES/con_869/){: .btn .btn--era3} | Event related | Objeto importante para mejorar tu Lista neutral. |
+  | 185 | ![Runas de Lista Defensiva](/images/t/i_tool_tujian2.png) | [Runas de Lista Defensiva](/ItemsES/con_739/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Defensa. |
+  | 186 | ![Runas de Lista Enorme](/images/t/i_tool_tujian9.png) | [Runas de Lista Enorme](/ItemsES/con_750/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de unidades masivas. |
+  | 187 | ![Runas de Lista Grande](/images/t/i_tool_tujian8.png) | [Runas de Lista Grande](/ItemsES/con_749/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de unidades grandes. |
+  | 188 | ![Runas de Lista Mediana](/images/t/i_tool_tujian7.png) | [Runas de Lista Mediana](/ItemsES/con_748/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de unidades medianas. |
+  | 189 | ![Runas de Lista Ofensiva](/images/t/i_tool_tujian1.png) | [Runas de Lista Ofensiva](/ItemsES/con_734/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Ataque. |
+  | 190 | ![Runas de Lista Pequeña](/images/t/i_tool_tujian6.png) | [Runas de Lista Pequeña](/ItemsES/con_747/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de unidades pequeñas. |
+  | 191 | ![Runas de Lista de Arquero](/images/t/i_tool_tujian4.png) | [Runas de Lista de Arquero](/ItemsES/con_742/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Arquero. |
+  | 192 | ![Runas de Lista de Bastión](/images/t/i_tool_tujian8.png) | [Runas de Lista de Bastión](/ItemsES/con_754/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Bastión. |
+  | 193 | ![Runas de Lista de Cala](/images/t/i_tool_tujian15.png) | [Runas de Lista de Cala](/ItemsES/con_868/){: .btn .btn--era3} | Event related | Objeto importante para mejorar tus Listas de Cala. |
+  | 194 | ![Runas de Lista de Carga](/images/t/i_tool_tujian3.png) | [Runas de Lista de Carga](/ItemsES/con_741/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Carga. |
+  | 195 | ![Runas de Lista de Castillo](/images/t/i_tool_tujian6.png) | [Runas de Lista de Castillo](/ItemsES/con_752/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Castillo. |
+  | 196 |  | [Runas de Lista de Conflujo](/ItemsES/con_791/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Conflujo. |
+  | 197 | ![Runas de Lista de Fortaleza](/images/t/i_tool_tujian14.png) | [Runas de Lista de Fortaleza](/ItemsES/con_818/){: .btn .btn--era3} | Event related | Objeto importante para mejorar tus Listas de Fortaleza. |
+  | 198 | ![Runas de Lista de Infierno](/images/t/i_tool_tujian10.png) | [Runas de Lista de Infierno](/ItemsES/con_777/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Infierno. |
+  | 199 | ![Runas de Lista de Lanzahechizos](/images/t/i_tool_tujian5.png) | [Runas de Lista de Lanzahechizos](/ItemsES/con_746/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Lanzahechizos. |
+  | 200 | ![Runas de Lista de Mazmorra](/images/t/i_tool_tujian13.png) | [Runas de Lista de Mazmorra](/ItemsES/con_792/){: .btn .btn--era3} | Event related | Objeto importante para mejorar tus Listas de Mazmorra. |
+  | 201 | ![Runas de Lista de Murallas](/images/t/i_tool_tujian7.png) | [Runas de Lista de Murallas](/ItemsES/con_753/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Murallas. |
+  | 202 | ![Runas de Lista de Necrópolis](/images/t/i_tool_tujian9.png) | [Runas de Lista de Necrópolis](/ItemsES/con_755/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Necrópolis. |
+  | 203 | ![Runas de Lista de Torre](/images/t/i_tool_tujian11.png) | [Runas de Lista de Torre](/ItemsES/con_785/){: .btn .btn--era3} | Event related | Objeto importante para aumentar tu clasificación de Torre. |
+  | 204 | ![Sello maléfico](/images/t/i_3051.png) | [Sello maléfico](/ItemsES/con_793/){: .btn .btn--era4} | Event related | Un sello que contiene poderes letales. Se puede intercambiar por objetos de la facción de Necrópolis en los eventos correspondientes. |
+  | 205 | ![Sopa agria de manos de cerdo de Yunnan](/images/t/i_81531111.png) | [Sopa agria de manos de cerdo de Yunnan](/ItemsES/con_1226/){: .btn .btn--era3} | Event related | Las manos de cerdo, muy ricas en colágeno y con un sabor muy suave, se cocinan lentamente en una deliciosa sopa agria cuyo sabor original se obtiene siguiendo una receta secreta. Se trata de un manjar muy poco habitual. Sin embargo, este estofado en cuestión parece todavía crudo. |
+  | 206 | ![Sopa de carnero de Jianyang Sichuan](/images/t/i_81511131.png) | [Sopa de carnero de Jianyang Sichuan](/ItemsES/con_1172/){: .btn .btn--era3} | Event related | La gente de la ciudad de Jianyang, en la provincia de Sichuan, prepara este plato cociendo la carne en un caldo de huesos de carpa y carnero. Un dicho chino dice que la lo más seguro es que la combinación de pescado y carnero tenga un sabor fresco, aunque este estofado en cuestión parece todavía crudo. |
+  | 207 | ![Tejido resistente al frío](/images/t/i_10016.png) | [Tejido resistente al frío](/ItemsES/con_530/){: .btn .btn--era4} | Event related | Un tejido procesado de manera especial usando el pelaje de un animal del norte. Su elevado precio puede deberse a que ofrece una resistencia al frío excelente y una sensación muy confortable. |
+  | 208 | ![Ticket de canjeo de Emblema Sagrado](/images/t/i_10003.png) | [Ticket de canjeo de Emblema Sagrado](/ItemsES/con_513/){: .btn .btn--era5} | Event related | Puede intercambiarse por Emblemas Sagrados poco comunes en los eventos correspondientes |
+  | 209 | ![Ticket de duelo](/images/t/i_3042.png) | [Ticket de duelo](/ItemsES/con_784/){: .btn .btn--era5} | Event related | Una invitación al Duelo de Héroes. ¡Lucha contra otros maestros! Se entrega por correo electrónico los lunes, miércoles y viernes. |
+  | 210 | ![Ticket de entrada al mercado](/images/t/i_8150000.png) | [Ticket de entrada al mercado](/ItemsES/con_1157/){: .btn .btn--era4} | Event related | Objeto necesario para acceder al mercado y comprar ingredientes. Se puede solicitar en el buzón tras gastar energía. |
+  | 211 | ![Tool_10001](/images/t/i_10001.png) | [Tool_10001](/ItemsES/con_511/){: .btn .btn--era4} | Event related | ¡Los objetos exclusivos del evento de Año Nuevo se pueden intercambiar por eventos poco comunes en los eventos correspondientes! |
+  | 212 | ![Tool_10008](/images/t/i_10008.png) | [Tool_10008](/ItemsES/con_517/){: .btn .btn--era4} | Event related | Puede intercambiarse por un objeto poco común en los eventos correspondientes. ¡Diviértete! |
+  | 213 | ![Tool_10009](/images/t/i_10009.png) | [Tool_10009](/ItemsES/con_518/){: .btn .btn--era4} | Event related | Se puede intercambiar por un objeto poco común en los eventos correspondientes. ¡Diviértete! |
+  | 214 | ![Tool_10010](/images/t/i_10010.png) | [Tool_10010](/ItemsES/con_524/){: .btn .btn--era4} | Event related |  |
+  | 215 | ![Tool_10011](/images/t/i_10011.png) | [Tool_10011](/ItemsES/con_525/){: .btn .btn--era4} | Event related |  |
+  | 216 | ![Tool_10012](/images/t/i_10012.png) | [Tool_10012](/ItemsES/con_526/){: .btn .btn--era4} | Event related |  |
+  | 217 | ![Tool_10014](/images/t/i_10014.png) | [Tool_10014](/ItemsES/con_528/){: .btn .btn--era4} | Event related | Se puede intercambiar por un objeto poco común en los eventos correspondientes. ¡Diviértete! |
+  | 218 |  | [Tool_10046](/ItemsES/con_2135/){: .btn .btn--era5} | Event related | Se puede intercambiar por Piedras de Alma de unidades SSR. |
+  | 219 | ![Tool_3064](/images/t/i_3064.png) | [Tool_3064](/ItemsES/con_806/){: .btn .btn--era4} | Event related |  |
+  | 220 |  | [Tool_31045](/ItemsES/con_866/){: .btn .btn--era5} | Event related | ¡Dicen que encontrar todos los símbolos misteriosos de tierras extranjeras indicará el camino hacia un tesoro enorme! |
+  | 221 | ![Tool_93601](/images/t/juexing_601.jpg) | [Tool_93601](/ItemsES/con_2050/){: .btn .btn--era5} | Event related |  |
+  | 222 | ![Tool_93602](/images/t/juexing_602.jpg) | [Tool_93602](/ItemsES/con_2051/){: .btn .btn--era5} | Event related |  |
+  | 223 | ![Tool_93608](/images/t/juexing_608.jpg) | [Tool_93608](/ItemsES/con_2057/){: .btn .btn--era5} | Event related |  |
+  | 224 | ![Tool_93708](/images/t/juexing_708.jpg) | [Tool_93708](/ItemsES/con_2065/){: .btn .btn--era5} | Event related |  |
+  | 225 | ![Tool_93804](/images/t/juexing_804.jpg) | [Tool_93804](/ItemsES/con_2068/){: .btn .btn--era5} | Event related |  |
+  | 226 | ![Tool_939901](/images/t/juexing_9901.jpg) | [Tool_939901](/ItemsES/con_2080/){: .btn .btn--era5} | Event related |  |
+  | 227 | ![Tool_939902](/images/t/juexing_9902.png) | [Tool_939902](/ItemsES/con_2081/){: .btn .btn--era5} | Event related |  |
+  | 228 | ![Tool_939904](/images/t/juexing_9904.jpg) | [Tool_939904](/ItemsES/con_2082/){: .btn .btn--era5} | Event related |  |
+  | 229 | ![Tool_939905](/images/t/juexing_9905.jpg) | [Tool_939905](/ItemsES/con_2083/){: .btn .btn--era5} | Event related |  |
+  | 230 | ![Tool_939906](/images/t/juexing_9906.jpg) | [Tool_939906](/ItemsES/con_2084/){: .btn .btn--era5} | Event related |  |
+  | 231 | ![Tool_939908](/images/t/juexing_9908.png) | [Tool_939908](/ItemsES/con_2085/){: .btn .btn--era5} | Event related | Un Alma heroica inmortal ancestral. Puede usarse para el Despertar de Revyaratan. |
+  | 232 | ![Tool_939909](/images/t/juexing_9909.jpg) | [Tool_939909](/ItemsES/con_2086/){: .btn .btn--era5} | Event related |  |
+  | 233 | ![Tortuga Dragón con caparazón de cacerola de acero](/images/t/i_81521231.png) | [Tortuga Dragón con caparazón de cacerola de acero](/ItemsES/con_1208/){: .btn .btn--era3} | Event related | «Saludos. Soy la Tortuga Dragón de acero. Como verás, mi caparazón es de plástico». |
+  | 234 | ![Tortuga Dragón con caparazón mecánico de cacerola](/images/t/i_81512231.png) | [Tortuga Dragón con caparazón mecánico de cacerola](/ItemsES/con_1187/){: .btn .btn--era3} | Event related | «Saludos. Soy la Tortuga Dragón mecánica. Como verás, mi caparazón está hecho en un 30% de hierro forjado». |
+  | 235 | ![Trineo de juguete](/images/t/i_690015.png) | [Trineo de juguete](/ItemsES/con_1089/){: .btn .btn--era4} | Event related | Objeto del evento Ruleta de Navidad. Durante el periodo del evento se puede intercambiar por recompensas. |
+  | 236 | ![Trébol](/images/t/i_10023.png) | [Trébol](/ItemsES/con_537/){: .btn .btn--era4} | Event related | Las cuatro hojas del trébol simbolizan la fama, la riqueza, el amor y la salud. |
+  | 237 | ![Verduras encurtidas con intestinos de Zhangzhou Fujian](/images/t/i_81531331.png) | [Verduras encurtidas con intestinos de Zhangzhou Fujian](/ItemsES/con_1241/){: .btn .btn--era3} | Event related | Verduras encurtidas dulces y amargas de Luxi, intestinos grandes y aromáticos cocidos, brotes frescos de bambú y un delicioso caldo de huesos conforman este plato único y peculiar de Zhangzhou. Sin embargo, este estofado en cuestión parece todavía crudo. |
+  | 238 |  | [Volver](/ItemsES/con_863/){: .btn .btn--era5} | Event related | ¡Dicen que encontrar todos los símbolos misteriosos de tierras extranjeras indicará el camino hacia un tesoro enorme! |
+  | 239 | ![Zapapico de hierro](/images/t/i_10025.png) | [Zapapico de hierro](/ItemsES/con_539/){: .btn .btn--era4} | Event related | Puedes usarlo para participar en el evento de minería. Sin embargo, al estar fabricado con materiales endebles, se romperá tras utilizarlo 1 vez. |
+  | 240 |  | [de los](/ItemsES/con_864/){: .btn .btn--era5} | Event related | ¡Dicen que encontrar todos los símbolos misteriosos de tierras extranjeras indicará el camino hacia un tesoro enorme! |
+  | 241 | ![Árbol de Navidad de juguete](/images/t/i_690016.png) | [Árbol de Navidad de juguete](/ItemsES/con_1090/){: .btn .btn--era4} | Event related | Objeto del evento Ruleta de Navidad. Durante el periodo del evento se puede intercambiar por recompensas. |

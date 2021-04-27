@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal épico +2"
 permalink: /mat_52/
 excerpt: "Era of Chaos  Cristal épico +2"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "mat_52.md"
 toc: false

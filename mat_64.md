@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre mítico"
 permalink: /mat_64/
 excerpt: "Era of Chaos  Azufre mítico"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "mat_64.md"
 toc: false

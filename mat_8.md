@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio común"
 permalink: /mat_8/
 excerpt: "Era of Chaos  Mercurio común"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "mat_8.md"
 toc: false
