@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas secretas +2"
 permalink: /mat_79/
 excerpt: "Era of Chaos  Gemas secretas +2"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "mat_79.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral superior +1"
 permalink: /mat_19/
 excerpt: "Era of Chaos  Mineral superior +1"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "mat_19.md"
 toc: false

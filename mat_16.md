@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas buenas"
 permalink: /mat_16/
 excerpt: "Era of Chaos  Gemas buenas"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "mat_16.md"
 toc: false
