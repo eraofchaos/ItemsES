@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral bueno"
 permalink: /mat_12/
 excerpt: "Era of Chaos  Mineral bueno"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "mat_12.md"
 toc: false
