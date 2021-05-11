@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal poco común +1"
 permalink: /mat_45/
 excerpt: "Era of Chaos  Cristal poco común +1"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "mat_45.md"
 toc: false

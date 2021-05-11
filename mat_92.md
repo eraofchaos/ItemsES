@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre estelar +4"
 permalink: /mat_92/
 excerpt: "Era of Chaos  Azufre estelar +4"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "mat_92.md"
 toc: false

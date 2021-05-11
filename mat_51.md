@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas épicas +2"
 permalink: /mat_51/
 excerpt: "Era of Chaos  Gemas épicas +2"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "mat_51.md"
 toc: false

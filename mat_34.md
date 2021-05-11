@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera excepcional"
 permalink: /mat_34/
 excerpt: "Era of Chaos  Madera excepcional"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "mat_34.md"
 toc: false

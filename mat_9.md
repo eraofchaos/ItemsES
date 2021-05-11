@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre común"
 permalink: /mat_9/
 excerpt: "Era of Chaos  Azufre común"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "mat_9.md"
 toc: false
