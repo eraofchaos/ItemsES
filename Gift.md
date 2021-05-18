@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Gift.md"
 toc: false
@@ -669,5 +669,6 @@ classes: wide
   | 655 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsES/con_1796/){: .btn .btn--era4} | Gift |  |
   | 656 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsES/con_1797/){: .btn .btn--era4} | Gift |  |
   | 657 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsES/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 658 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsES/con_2099/){: .btn .btn--era4} | Gift |  |
-  | 659 | ![Una bolsa de oro](/images/t/i_510.png) | [Una bolsa de oro](/ItemsES/con_1563/){: .btn .btn--era3} | Gift | ¡Un paquete con 77.777 piezas de oro! |
+  | 658 |  | [Tool_907612](/es/Items/con_2151/){: .btn .btn--era5} | Gift |  |
+  | 659 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsES/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 660 | ![Una bolsa de oro](/images/t/i_510.png) | [Una bolsa de oro](/ItemsES/con_1563/){: .btn .btn--era3} | Gift | ¡Un paquete con 77.777 piezas de oro! |

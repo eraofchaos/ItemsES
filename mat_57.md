@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre legendario +3"
 permalink: /mat_57/
 excerpt: "Era of Chaos  Azufre legendario +3"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "mat_57.md"
 toc: false

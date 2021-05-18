@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas míticas"
 permalink: /mat_65/
 excerpt: "Era of Chaos  Gemas míticas"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "mat_65.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio poco común +1"
 permalink: /mat_42/
 excerpt: "Era of Chaos  Mercurio poco común +1"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "mat_42.md"
 toc: false
