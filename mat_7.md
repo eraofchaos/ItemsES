@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera común"
 permalink: /mat_7/
 excerpt: "Era of Chaos  Madera común"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "mat_7.md"
 toc: false

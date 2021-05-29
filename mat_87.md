@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal de Alma +3"
 permalink: /mat_87/
 excerpt: "Era of Chaos  Cristal de Alma +3"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "mat_87.md"
 toc: false
