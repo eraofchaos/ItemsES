@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera de Alma +3"
 permalink: /mat_83/
 excerpt: "Era of Chaos  Madera de Alma +3"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "mat_83.md"
 toc: false

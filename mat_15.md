@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre bueno"
 permalink: /mat_15/
 excerpt: "Era of Chaos  Azufre bueno"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "mat_15.md"
 toc: false

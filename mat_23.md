@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas superiores +1"
 permalink: /mat_23/
 excerpt: "Era of Chaos  Gemas superiores +1"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "mat_23.md"
 toc: false
