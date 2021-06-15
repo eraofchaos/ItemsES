@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral poco común +1"
 permalink: /mat_40/
 excerpt: "Era of Chaos  Mineral poco común +1"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "mat_40.md"
 toc: false

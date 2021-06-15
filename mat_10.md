@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas comunes"
 permalink: /mat_10/
 excerpt: "Era of Chaos  Gemas comunes"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "mat_10.md"
 toc: false
