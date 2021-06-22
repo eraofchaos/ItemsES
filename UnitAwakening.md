@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Unit Awakening.md"
 toc: false
@@ -66,24 +66,24 @@ classes: wide
   | 52 | ![Piedra de Alma de Señor del Abismo](/images/u/tia_diyulingzhu.jpg) | [Piedra de Alma de Señor del Abismo](/ItemsES/unt_316/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Señor del Abismo |
   | 53 | ![Piedra de Alma de Soldado Dendroide](/images/u/tia_shuyao.jpg) | [Piedra de Alma de Soldado Dendroide](/ItemsES/unt_293/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Soldado Dendroide |
   | 54 | ![Piedra de Alma de Sultán Efrit](/images/u/tia_liehuojingling.jpg) | [Piedra de Alma de Sultán Efrit](/ItemsES/unt_317/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Sultán Efrit |
-  | 55 | ![Piedra de Alma de Titán](/images/u/tia_taitan.jpg) | [Piedra de Alma de Titán](/ItemsES/unt_326/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Titán. |
-  | 56 | ![Piedra de Alma de Troglodita Oscuro](/images/u/tia_dongxueren.jpg) | [Piedra de Alma de Troglodita Oscuro](/ItemsES/unt_328/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Troglodita Oscuro. |
-  | 57 | ![Piedra de Alma de Unicornio de Guerra](/images/u/tia_dujiaoshou.jpg) | [Piedra de Alma de Unicornio de Guerra](/ItemsES/unt_294/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Unicornio de Guerra |
-  | 58 | ![Piedra de Alma de Zombi](/images/u/tia_jiangshi.jpg) | [Piedra de Alma de Zombi](/ItemsES/unt_298/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Zombi |
-  | 59 | ![Piedra de Alma de familiar](/images/u/tia_xiaoemo.jpg) | [Piedra de Alma de familiar](/ItemsES/unt_313/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de familiar |
-  | 60 | ![Piedra de Alma del Antiguo Behemoth](/images/u/tia_bimeng.jpg) | [Piedra de Alma del Antiguo Behemoth](/ItemsES/unt_311/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Antiguo Behemoth |
-  | 61 | ![Piedra de Alma del Arcángel](/images/u/tia_datianshi.jpg) | [Piedra de Alma del Arcángel](/ItemsES/unt_288/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Ángel |
-  | 62 | ![Piedra de Alma del Ave de Trueno](/images/u/tia_leiniao.jpg) | [Piedra de Alma del Ave de Trueno](/ItemsES/unt_309/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Ave de Trueno |
-  | 63 | ![Piedra de Alma del Elemental de Energía](/images/u/tia_liehuoyuansu.jpg) | [Piedra de Alma del Elemental de Energía](/ItemsES/unt_346/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Elemental de Energía |
-  | 64 | ![Piedra de Alma del Mago Ogro](/images/u/tia_shirenmo.jpg) | [Piedra de Alma del Mago Ogro](/ItemsES/unt_308/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Mago Ogro |
-  | 65 | ![Piedras de Alma de Guardián de la Marea](/images/u/tia_yurenyongshi.jpg) | [Piedras de Alma de Guardián de la Marea](/ItemsES/unt_352/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Guardián de la Marea |
-  | 66 | ![Tool_94601](/images/u/tia_dayaojing.jpg) | [Tool_94601](/ItemsES/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
-  | 67 | ![Tool_94602](/images/u/tia_shixianggui.jpg) | [Tool_94602](/ItemsES/unt_321/){: .btn .btn--era5} | Awakening Soul |  |
-  | 68 | ![Tool_94608](/images/u/tia_reqiqiu.jpg) | [Tool_94608](/ItemsES/unt_327/){: .btn .btn--era5} | Awakening Soul |  |
-  | 69 | ![Tool_94708](/images/u/tia_honglong.jpg) | [Tool_94708](/ItemsES/unt_335/){: .btn .btn--era5} | Awakening Soul |  |
-  | 70 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/ItemsES/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
-  | 71 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/ItemsES/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
-  | 72 | ![Tool_949902](/images/u/tia_baozang.jpg) | [Tool_949902](/ItemsES/unt_351/){: .btn .btn--era5} | Awakening Soul |  |
+  | 55 | ![Piedra de Alma de Tiradora Regnan](/images/u/tia_baozang.jpg) | [Piedra de Alma de Tiradora Regnan](/ItemsES/unt_351/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Tiradora Regnan. |
+  | 56 | ![Piedra de Alma de Titán](/images/u/tia_taitan.jpg) | [Piedra de Alma de Titán](/ItemsES/unt_326/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Titán. |
+  | 57 | ![Piedra de Alma de Troglodita Oscuro](/images/u/tia_dongxueren.jpg) | [Piedra de Alma de Troglodita Oscuro](/ItemsES/unt_328/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Troglodita Oscuro. |
+  | 58 | ![Piedra de Alma de Unicornio de Guerra](/images/u/tia_dujiaoshou.jpg) | [Piedra de Alma de Unicornio de Guerra](/ItemsES/unt_294/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Unicornio de Guerra |
+  | 59 | ![Piedra de Alma de Zombi](/images/u/tia_jiangshi.jpg) | [Piedra de Alma de Zombi](/ItemsES/unt_298/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Zombi |
+  | 60 | ![Piedra de Alma de familiar](/images/u/tia_xiaoemo.jpg) | [Piedra de Alma de familiar](/ItemsES/unt_313/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de familiar |
+  | 61 | ![Piedra de Alma del Antiguo Behemoth](/images/u/tia_bimeng.jpg) | [Piedra de Alma del Antiguo Behemoth](/ItemsES/unt_311/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Antiguo Behemoth |
+  | 62 | ![Piedra de Alma del Arcángel](/images/u/tia_datianshi.jpg) | [Piedra de Alma del Arcángel](/ItemsES/unt_288/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Ángel |
+  | 63 | ![Piedra de Alma del Ave de Trueno](/images/u/tia_leiniao.jpg) | [Piedra de Alma del Ave de Trueno](/ItemsES/unt_309/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Ave de Trueno |
+  | 64 | ![Piedra de Alma del Elemental de Energía](/images/u/tia_liehuoyuansu.jpg) | [Piedra de Alma del Elemental de Energía](/ItemsES/unt_346/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Elemental de Energía |
+  | 65 | ![Piedra de Alma del Mago Ogro](/images/u/tia_shirenmo.jpg) | [Piedra de Alma del Mago Ogro](/ItemsES/unt_308/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Mago Ogro |
+  | 66 | ![Piedras de Alma de Guardián de la Marea](/images/u/tia_yurenyongshi.jpg) | [Piedras de Alma de Guardián de la Marea](/ItemsES/unt_352/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Guardián de la Marea. |
+  | 67 | ![Tool_94601](/images/u/tia_dayaojing.jpg) | [Tool_94601](/ItemsES/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
+  | 68 | ![Tool_94602](/images/u/tia_shixianggui.jpg) | [Tool_94602](/ItemsES/unt_321/){: .btn .btn--era5} | Awakening Soul |  |
+  | 69 | ![Tool_94608](/images/u/tia_reqiqiu.jpg) | [Tool_94608](/ItemsES/unt_327/){: .btn .btn--era5} | Awakening Soul |  |
+  | 70 | ![Tool_94708](/images/u/tia_honglong.jpg) | [Tool_94708](/ItemsES/unt_335/){: .btn .btn--era5} | Awakening Soul |  |
+  | 71 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/ItemsES/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
+  | 72 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/ItemsES/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
   | 73 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/ItemsES/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
   | 74 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/ItemsES/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
   | 75 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/ItemsES/unt_356/){: .btn .btn--era5} | Awakening Soul |  |

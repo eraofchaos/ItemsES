@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal eterno +1"
 permalink: /mat_73/
 excerpt: "Era of Chaos  Cristal eterno +1"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "mat_73.md"
 toc: false
@@ -23,8 +23,7 @@ classes: wide
 
 *    Aventura de Gremio 
 *    [Capítulo 21: El Grial -> 21-6](/es/Main Story/Chapter 21_6/) 
-*    [Capítulo 21: El Grial -> 21-12](/es/Main Story/Chapter 21_12/) 
-*    [Capítulo 21: El Grial -> 21-15](/es/Main Story/Chapter 21_15/) 
+*    Aventura de Gremio 
 
 ## This item contains:
 

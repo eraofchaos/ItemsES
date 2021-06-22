@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal inferior"
 permalink: /mat_5/
 excerpt: "Era of Chaos  Cristal inferior"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "mat_5.md"
 toc: false

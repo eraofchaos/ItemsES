@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal excepcional"
 permalink: /mat_38/
 excerpt: "Era of Chaos  Cristal excepcional"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "mat_38.md"
 toc: false

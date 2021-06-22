@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Unit Soul.md"
 toc: false
@@ -48,7 +48,7 @@ classes: wide
   | 34 | ![Elemental del Mar](/images/u/ti_haiyuansu.jpg) | [Elemental del Mar](/ItemsES/unt_275/){: .btn .btn--era3} | Unit Soul | Cuando hayas reunido 10 fichas de alma, podrás invocar a un Elemental del Mar. Las fichas también se pueden usar para mejorar o aumentar el rango de los Elementales del Mar. |
   | 35 | ![Elfa del Bosque](/images/u/ti_mujingling.jpg) | [Elfa del Bosque](/ItemsES/unt_201/){: .btn .btn--era4} | Unit Soul | Cuando hayas reunido 30 fichas de alma, podrás invocar a una Elfa del Bosque, una unidad de aptitud SR. |
   | 36 | ![Enano](/images/u/ti_airen.jpg) | [Enano](/ItemsES/unt_200/){: .btn .btn--era4} | Unit Soul | Cuando hayas reunido 30 fichas de alma, podrás invocar a un Enano, una unidad de aptitud SR. |
-  | 37 | ![Engendro Venenoso](/images/u/ti_yanmo.jpg) | [Engendro Venenoso](/ItemsES/unt_234/){: .btn .btn--era6} | Unit Soul | Cuando hayas reunido 80 fichas de alma, podrás invocar un Engendro Venenoso, una unidad de Comandante. |
+  | 37 | ![Engendro Venenoso](/images/u/ti_yanmo.jpg) | [Engendro Venenoso](/ItemsES/unt_234/){: .btn .btn--era6} | Unit Soul | Cuando hayas reunido 80 fichas de alma, podrás invocar a un Engendro Venenoso. Las fichas también se pueden usar para mejorar o aumentar el rango del Engendro Venenoso. |
   | 38 | ![Espadachín](/images/u/ti_shizijun.jpg) | [Espadachín](/ItemsES/unt_193/){: .btn .btn--era4} | Unit Soul | Cuando hayas reunido 30 fichas de alma, podrás invocar a un Espadachín, una unidad de aptitud SR. |
   | 39 | ![Esqueleto](/images/u/ti_kulouzhanshi.jpg) | [Esqueleto](/ItemsES/unt_208/){: .btn .btn--era3} | Unit Soul | Cuando hayas reunido 10 fichas de alma, podrás invocar a un Esqueleto, una unidad de aptitud R. |
   | 40 | ![Genio](/images/u/ti_shenguai.jpg) | [Genio](/ItemsES/unt_239/){: .btn .btn--era4} | Unit Soul | Cuando hayas reunido 80 fichas de alma, podrás invocar a una Genio. Las fichas también se pueden usar para mejorar o aumentar el rango de las Genios. |
