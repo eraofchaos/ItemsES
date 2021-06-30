@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Gift.md"
 toc: false
@@ -121,7 +121,7 @@ classes: wide
   | 107 | ![Carta de artefacto](/images/t/i_907494.png) | [Carta de artefacto](/ItemsES/con_1913/){: .btn .btn--era5} | Gift | Otorga los siguientes objetos a diario durante los siguientes 7 días después de la compra: 2 Platas Astro, 100 Piedras de Forja celestiales y 80 diamantes. |
   | 108 | ![Carta de crecimiento](/images/t/i_907318.png) | [Carta de crecimiento](/ItemsES/con_1911/){: .btn .btn--era5} | Gift | Otorga los siguientes objetos a diario durante los siguientes 7 días después de la compra: 300 de Acero de dragón, 300 Acero sombrío, 300 Plata celestial y 60 diamantes. |
   | 109 | ![Carta de energía](/images/t/i_907316.png) | [Carta de energía](/ItemsES/con_1907/){: .btn .btn--era5} | Gift | Otorga los siguientes objetos a diario durante los siguientes 7 días después de la compra: 60 de energía, 60 de movimiento y 30 diamantes. |
-  | 110 | ![Carta de hechizo](/images/t/i_907532.png) | [Carta de hechizo](/ItemsES/con_1909/){: .btn .btn--era5} | Gift | Otorga los siguientes objetos a diario durante los siguientes 7 días después de la compra: 3 cofres de selección de fichas de hechizo naranja y 45 diamantes. |
+  | 110 | ![Carta de hechizo](/images/t/i_907532.png) | [Carta de hechizo](/es/Items/con_2197/){: .btn .btn--era5} | Gift | Otorga los siguientes objetos a diario durante los siguientes 7 días después de la compra: 3 cofres de selección de fichas de hechizo naranja y 45 diamantes. |
   | 111 | ![Carta de piedra rúnica](/images/t/i_907315.png) | [Carta de piedra rúnica](/ItemsES/con_1865/){: .btn .btn--era5} | Gift |  |
   | 112 | ![Carta de reclutamiento](/images/t/i_907319.png) | [Carta de reclutamiento](/ItemsES/con_1908/){: .btn .btn--era5} | Gift | Otorga los siguientes objetos a diario durante los siguientes 7 días después de la compra: 1 llave dorada, 1 llave de plata y 40 diamantes. |
   | 113 | ![Carta de suerte](/images/t/i_907315.png) | [Carta de suerte](/ItemsES/con_1906/){: .btn .btn--era5} | Gift | Otorga los siguientes objetos a diario durante los siguientes 7 días después de la compra: 10 diamantes y 10 de energía |
@@ -686,5 +686,13 @@ classes: wide
   | 672 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsES/con_1796/){: .btn .btn--era4} | Gift |  |
   | 673 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsES/con_1797/){: .btn .btn--era4} | Gift |  |
   | 674 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsES/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 675 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsES/con_2099/){: .btn .btn--era4} | Gift |  |
-  | 676 | ![Una bolsa de oro](/images/t/i_510.png) | [Una bolsa de oro](/ItemsES/con_1563/){: .btn .btn--era3} | Gift | ¡Un paquete con 77.777 piezas de oro! |
+  | 675 |  | [Tool_907635](/es/Items/con_2190/){: .btn .btn--era5} | Gift |  |
+  | 676 |  | [Tool_907636](/es/Items/con_2191/){: .btn .btn--era5} | Gift |  |
+  | 677 |  | [Tool_907637](/es/Items/con_2192/){: .btn .btn--era5} | Gift |  |
+  | 678 |  | [Tool_907638](/es/Items/con_2193/){: .btn .btn--era5} | Gift |  |
+  | 679 | ![Tool_907639](/images/t/i_907316.png) | [Tool_907639](/es/Items/con_2194/){: .btn .btn--era5} | Gift |  |
+  | 680 |  | [Tool_907640](/es/Items/con_2195/){: .btn .btn--era5} | Gift |  |
+  | 681 |  | [Tool_907641](/es/Items/con_2196/){: .btn .btn--era5} | Gift |  |
+  | 682 | ![Tool_907643](/images/t/i_7012.png) | [Tool_907643](/es/Items/con_2198/){: .btn .btn--era5} | Gift |  |
+  | 683 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsES/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 684 | ![Una bolsa de oro](/images/t/i_510.png) | [Una bolsa de oro](/ItemsES/con_1563/){: .btn .btn--era3} | Gift | ¡Un paquete con 77.777 piezas de oro! |

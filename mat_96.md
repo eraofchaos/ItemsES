@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral radiante +5"
 permalink: /mat_96/
 excerpt: "Era of Chaos  Mineral radiante +5"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "mat_96.md"
 toc: false
