@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera estelar +4"
 permalink: /mat_90/
 excerpt: "Era of Chaos  Madera estelar +4"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "mat_90.md"
 toc: false
