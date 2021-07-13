@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Gift.md"
 toc: false
@@ -563,7 +563,7 @@ classes: wide
   | 549 | ![Paquete de selección de Emblema Sagrado](/images/t/i_907089.png) | [Paquete de selección de Emblema Sagrado](/es/Items/con_2174/){: .btn .btn--era5} | Gift | Úsalo para seleccionar uno de los numerosos Emblemas Sagrados. |
   | 550 | ![Paquete de selección de Emblema Sagrado Naranja](/images/t/i_907416.png) | [Paquete de selección de Emblema Sagrado Naranja](/es/Items/con_2170/){: .btn .btn--era5} | Gift | Úsalo para seleccionar 1 de los siguientes artículos: Fuente de inmortalidad, El precio de la lealtad, Alas de Grifo, Fuego antiguo, Legado de Puño de Hierro, Secreto interminable, Bendición de la Reina, Santuario de Kosmos, Profeta Verde, Testigo, Muro de la Sabiduría, Ángel Guardián, Engranaje del tiempo, El juicio de los padres, La llave de piedra del Poder y la Magia, ficha de Aksoe, Núcleo de la red global, Culpabilidad de Tarnum, Principios legales del sucesor, La senda del Asesino, Arrogancia, Enfado, Avaricia, Lujuria, Envidia, Autónimo olvidado, Calamidad del Rey, Profecía rota, Señal ominosa, Aliento del Rey Dragón o Iluminación de oscuridad. |
   | 551 | ![Paquete de selección de Héroe de élite](/images/t/i_906030.png) | [Paquete de selección de Héroe de élite](/ItemsES/con_1317/){: .btn .btn--era5} | Gift | Úsalo para seleccionar 1 de los siguientes Héroes: Astral, Roland, Gem, Lord Haart, Sandro, Xeron, Dragona Mutare, Kilgor, Ciele, Tazar, Cassanbel o Ezio. |
-  | 552 | ![Paquete de selección de Piedra de Alma SSR](/images/t/i_907560.png) | [Paquete de selección de Piedra de Alma SSR](/es/Items/con_2154/){: .btn .btn--era5} | Gift | Úsala para seleccionar 1 de los siguientes artículos: 1 Piedra de Alma de Tiradora Regnan, 1 Piedra de Alma del Arcángel, 1 Piedra de Ama de Paladín Supremo, 1 Piedra de Alma de Dragón Dorado, 1 Piedra de alma de Caballero del Terror, 1 Piedra de Alma de Dragón Fantasma, 1 Piedra de Alma del Antiguo Behemoth, 1 Piedra de Alma de Aullador de Muerte, 1 Piedra de Alma de Archidiablo, 1 Piedra de Alma de Naga Reina, 1 Piedra de Alma de Titán, 1 Piedra de Alma de Rey Dragón Negro, 1 Piedra de Alma de Hidra del Caos, 1 Piedra de Alma de Gran Gorgona, 1 Piedra de Alma de Duendecillo Maestro o 1 Piedra de Alma de Elemental de Magia. |
+  | 552 | ![Paquete de selección de Piedra de Alma SSR](/images/t/i_907560.png) | [Paquete de selección de Piedra de Alma SSR](/es/Items/con_2154/){: .btn .btn--era5} | Gift | Úsala para seleccionar 1 de los siguientes artículos: 1 Piedra de Alma del Arcángel, 1 Piedra de Ama de Paladín Supremo, 1 Piedra de Alma de Dragón Dorado, 1 Piedra de alma de Caballero del Terror, 1 Piedra de Alma de Dragón Fantasma, 1 Piedra de Alma del Antiguo Behemoth, 1 Piedra de Alma de Aullador de Muerte, 1 Piedra de Alma de Archidiablo, 1 Piedra de Alma de Naga Reina, 1 Piedra de Alma de Titán, 1 Piedra de Alma de Rey Dragón Negro, 1 Piedra de Alma de Hidra del Caos, 1 Piedra de Alma de Gran Gorgona, 1 Piedra de Alma de Duendecillo Maestro, 1 Piedra de Alma de Elemental de Magia o 1 Piedra de Alma de Tiradora Regnan. |
   | 553 |  | [Paquete de selección de avatar de Comandante](/es/Items/con_2182/){: .btn .btn--era5} | Gift | Úsalo para desbloquear 1 de los siguientes artículos: Avatar de Engendro Venenoso, avatar de Gólem Dragón, avatar de Vidente Regnan, avatar de Hechicera Maligna, avatar de Demonio de Hielo, avatar de Trol o avatar de Adjudicadora. |
   | 554 |  | [Paquete de selección de fichas de Héroe](/es/Items/con_2176/){: .btn .btn--era5} | Gift | Úsalo para seleccionar 1 ficha de uno los siguientes héroes: Roland, Gem, Kilgor, Sandro, Xeron, Astral, Ciele, Dragona Mutare, Tazar o Cassanbel. |
   | 555 | ![Paquete de selección de fichas de unidad de élite](/images/t/i_907239.png) | [Paquete de selección de fichas de unidad de élite](/ItemsES/con_1623/){: .btn .btn--era4} | Gift | Úsalo para seleccionar 1 ficha de Momia, Genio, Elemental de Piedra o Liche. |
@@ -692,5 +692,18 @@ classes: wide
   | 678 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsES/con_1796/){: .btn .btn--era4} | Gift |  |
   | 679 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsES/con_1797/){: .btn .btn--era4} | Gift |  |
   | 680 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsES/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 681 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsES/con_2099/){: .btn .btn--era4} | Gift |  |
-  | 682 | ![Una bolsa de oro](/images/t/i_510.png) | [Una bolsa de oro](/ItemsES/con_1563/){: .btn .btn--era3} | Gift | ¡Un paquete con 77.777 piezas de oro! |
+  | 681 |  | [Tool_907644](/es/Items/con_2201/){: .btn .btn--era5} | Gift |  |
+  | 682 |  | [Tool_907645](/es/Items/con_2202/){: .btn .btn--era5} | Gift |  |
+  | 683 |  | [Tool_907646](/es/Items/con_2203/){: .btn .btn--era5} | Gift |  |
+  | 684 |  | [Tool_907647](/es/Items/con_2204/){: .btn .btn--era5} | Gift |  |
+  | 685 | ![Tool_907648](/images/t/i_907181.png) | [Tool_907648](/es/Items/con_2205/){: .btn .btn--era5} | Gift |  |
+  | 686 |  | [Tool_907649](/es/Items/con_2206/){: .btn .btn--era6} | Gift |  |
+  | 687 | ![Tool_907650](/images/t/i_907190.png) | [Tool_907650](/es/Items/con_2207/){: .btn .btn--era5} | Gift |  |
+  | 688 | ![Tool_907651](/images/t/i_907190.png) | [Tool_907651](/es/Items/con_2208/){: .btn .btn--era5} | Gift |  |
+  | 689 | ![Tool_907652](/images/t/i_907190.png) | [Tool_907652](/es/Items/con_2209/){: .btn .btn--era5} | Gift |  |
+  | 690 | ![Tool_907653](/images/t/i_907190.png) | [Tool_907653](/es/Items/con_2210/){: .btn .btn--era5} | Gift |  |
+  | 691 | ![Tool_907654](/images/t/i_907190.png) | [Tool_907654](/es/Items/con_2211/){: .btn .btn--era5} | Gift |  |
+  | 692 | ![Tool_907655](/images/t/i_907525.png) | [Tool_907655](/es/Items/con_2212/){: .btn .btn--era4} | Gift |  |
+  | 693 |  | [Tool_907656](/es/Items/con_2213/){: .btn .btn--era5} | Gift |  |
+  | 694 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsES/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 695 | ![Una bolsa de oro](/images/t/i_510.png) | [Una bolsa de oro](/ItemsES/con_1563/){: .btn .btn--era3} | Gift | ¡Un paquete con 77.777 piezas de oro! |

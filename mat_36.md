@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre excepcional"
 permalink: /mat_36/
 excerpt: "Era of Chaos  Azufre excepcional"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "mat_36.md"
 toc: false
