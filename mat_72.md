@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas eternas +1"
 permalink: /mat_72/
 excerpt: "Era of Chaos  Gemas eternas +1"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "mat_72.md"
 toc: false
