@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal bueno"
 permalink: /mat_17/
 excerpt: "Era of Chaos  Cristal bueno"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "mat_17.md"
 toc: false
