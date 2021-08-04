@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Consumables.md"
 toc: false
@@ -114,7 +114,7 @@ classes: wide
   | 100 | ![Dios de la Guerra vikingo: Crag Hack](/images/h/h_CragHack3.jpg) | [Dios de la Guerra vikingo: Crag Hack](/ItemsES/con_1056/){: .btn .btn--era5} | Special Skin | Se usa para obtener el aspecto de Dios de la Guerra vikingo de Crag Hack |
   | 101 | ![Don Mullich](/images/h/h_Mullich4.jpg) | [Don Mullich](/ItemsES/con_1028/){: .btn .btn--era5} | Special Skin | Úsalo para obtener un aspecto: Don Mullich |
   | 102 | ![Dragón Encantado](/images/h/h_MutareDrake3.jpg) | [Dragón Encantado](/ItemsES/con_1073/){: .btn .btn--era5} | Special Skin | Úsalo para obtener el aspecto: Constelación del Dragón Encantado de Dragona Mutare |
-  | 103 |  | [Dragón azul](/es/Items/con_2236/){: .btn .btn--era5} | Unit Skin | Otorga el aspecto Dragón azul: Hidra. |
+  | 103 |  | [Dragón azul](/es/Items/con_2236/){: .btn .btn--era5} | Unit Skin | Otorga el aspecto de Dragón Azur: Aspecto de Hidra. |
   | 104 | ![Dragón de Obsidiana: Aspecto de Dragón de Hueso](/images/u/ti_gulongyinengpifu.jpg) | [Dragón de Obsidiana: Aspecto de Dragón de Hueso](/ItemsES/con_1984/){: .btn .btn--era5} | Unit Skin | Otorga al Dragón de Obsidiana: Aspecto de Dragón de Hueso. |
   | 105 | ![Duque dorado: Crag Hack](/images/h/h_CragHack5.jpg) | [Duque dorado: Crag Hack](/ItemsES/con_1057/){: .btn .btn--era5} | Special Skin | Se usa para obtener el aspecto de Duque dorado de Crag Hack |
   | 106 |  | [EXP VIP](/ItemsES/con_888/){: .btn .btn--era5} | VIP related | La EXP VIP representa la dignidad. |

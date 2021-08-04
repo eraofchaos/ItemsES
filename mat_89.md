@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral estelar +4"
 permalink: /mat_89/
 excerpt: "Era of Chaos  Mineral estelar +4"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "mat_89.md"
 toc: false
